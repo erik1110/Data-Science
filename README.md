@@ -4,83 +4,91 @@
 
 ## Schedule of Machine Learning
 
--Chapter 1 : Introduction
+- Intorduction
 
--Chapter 2 : Data Preprocessing
+### Chapter 1 : Data Analysis Skill
 
-
-### Regression
-
--Chapter 3 : Regression
+- Data Preprocessing
 
 
-### Classification
+### Chapter 2 : Regression
 
--Chapter 4 : Logistic Regression
-
--Chapter 5 : Support Vector Machine
-
--Chapter 6 : Native Bayes
-
--Chapter 7 : Decision Tree
-
--Chapter 8 : Random Forest 
-
--Chapter 9 : Evaluating Classification Models Performance
+- Regression
 
 
-### Clustering
+### Chapter 3 : Classification
 
--Chapter 10 : K-Means Clustering
+-1. Logistic Regression
 
+-2. Support Vector Machine
 
-### Association Rule Learning
+-3. Native Bayes
 
--Chapter 11 : Apriori
+-4. Decision Tree
 
+-5. Random Forest 
 
-### Reinforcement Learning
-
--Chapter 12 : Upper Confidence Bound or UCB
-
--Chapter 13 : Thompson
+-6. Evaluating Classification Models Performance
 
 
-### Natural Language Processing
+### Chapter 4 : Clustering
 
--Chapter 14 : NLP 
-
-
-### Deep Learning
-
--Chapter 15 : Artificial Neural Networks
-
-a.[Keras PPT](https://github.com/erik1110/Machine-Learning/blob/master/Deep%20Learning/Keras/Keras%20%E5%85%A5%E9%96%80.pdf)
-
-b.[Keras Demo](https://github.com/erik1110/Machine-Learning/blob/master/Deep%20Learning/Keras/Keras%20v2.ipynb)
+- K-Means Clustering
 
 
--Chapter 16 : Convolutional Neural Networks
+### Chapter 5 : Reinforcement Learning
+
+-1. Upper Confidence Bound or UCB
+
+-2. Thompson
 
 
-### Dimensionality Reduction
+### Chapter 6 : Natural Language Processing
 
--Chapter 17 : Principal Component Analysis
-
--Chapter 18 : Kernel PCA
+- word2vec 
 
 
-### Model Selection 
+### Chapter 7 : Deep Learning
 
--Chapter 19 :
+-1. Deep Neural Networks(DNN)
+
+ a.[Keras PDF](https://github.com/erik1110/Machine-Learning/blob/master/Deep%20Learning/Keras/Keras%20%E5%85%A5%E9%96%80.pdf)
+
+ b.[Keras Demo](https://github.com/erik1110/Machine-Learning/blob/master/Deep%20Learning/Keras/Keras%20v2.ipynb)
+
+
+-2. Convolutional Neural Networks(CNN)
+
+-3. Recurrent Neural Network(RNN)
+
+
+### Chapter 8 : Dimensionality Reduction
+
+-1. Principal Component Analysis
+
+-2. Kernel PCA
+
+
+### Chapter 9 : Model Selection 
+
+-Cross Validation
 
 ### Ensemble
- 
--Chapter 20 : Gradient Boosting Decision Tree
 
--Chapter 21 : eXtreme Gradient Boosting(XGBoost)
+-1. Blending
 
--Chapter 22 : LightGBM
+-2. Bagging 
+
+-3. Bootstrap
+
+-4. Adaptive Boosting Algorithm(AdaBoost)
+
+-5. Gradient Boosting Decision Tree(GBDT)
+
+-6. eXtreme Gradient Boosting(XGBoost)
+
+-7. LightGBM
 
   a.[Tuturial](https://zhuanlan.zhihu.com/p/25308051)
+ 
  
