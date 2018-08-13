@@ -10,6 +10,8 @@ This is a story related to machine learning and all data science skill.
 ## Chapter 1 : Data Analysis Skill
 
 - Data Preprocessing
+  
+  1.[整理numpy和pandas中 axis(軸)的概念](http://changtw-blog.logdown.com/posts/895468-python-numpy-axis-concept-organize-notes)
 
 
 ## Chapter 2 : Regression
