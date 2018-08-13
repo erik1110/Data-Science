@@ -74,6 +74,7 @@ This is a story related to machine learning and all data science skill.
 
 -[Google Cloud Vision API](https://github.com/enakai00/jupyter_gcp/blob/master/Vision%20API%20Quick%20Tour.ipynb)
 
+-[Google Cloud Text API](https://blog.gtwang.org/programming/automation-of-google-ocr-using-python-tutorial/)
 
 ## Chapter 8 : Dimensionality Reduction
 
