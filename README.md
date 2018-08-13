@@ -1,22 +1,23 @@
 # Machine-Learning
 ![Image](https://github.com/erik1110/Machine-Learning/blob/master/DataScience.jpeg)
-## This is a story related to machine learning and all data science skill.
+
+This is a story related to machine learning and all data science skill.
 
 ## Map of Machine Learning
 
 - Intorduction
 
-### Chapter 1 : Data Analysis Skill
+## Chapter 1 : Data Analysis Skill
 
 - Data Preprocessing
 
 
-### Chapter 2 : Regression
+## Chapter 2 : Regression
 
 - Regression
 
 
-### Chapter 3 : Classification
+## Chapter 3 : Classification
 
 1. Logistic Regression
 
@@ -31,24 +32,24 @@
 6. Evaluating Classification Models Performance
 
 
-### Chapter 4 : Clustering
+## Chapter 4 : Clustering
 
 - K-Means Clustering
 
 
-### Chapter 5 : Reinforcement Learning
+## Chapter 5 : Reinforcement Learning
 
 1. Upper Confidence Bound or UCB
 
 2. Thompson
 
 
-### Chapter 6 : Natural Language Processing
+## Chapter 6 : Natural Language Processing
 
 - word2vec 
 
 
-### Chapter 7 : Deep Learning
+## Chapter 7 : Deep Learning
 
 1. Deep Neural Networks(DNN)
 
@@ -63,7 +64,7 @@
    
 3. Recurrent Neural Network(RNN)
 
-#### 影像辨識
+### 影像辨識
 
 -[關於影像辨識，所有你應該知道的深度學習模型](https://medium.com/@syshen/%E7%89%A9%E9%AB%94%E5%81%B5%E6%B8%AC-object-detection-740096ec4540)
 
@@ -71,18 +72,18 @@
 
 
 
-### Chapter 8 : Dimensionality Reduction
+## Chapter 8 : Dimensionality Reduction
 
 1. Principal Component Analysis
 
 2. Kernel PCA
 
 
-### Chapter 9 : Model Selection 
+## Chapter 9 : Model Selection 
 
 - Cross Validation
 
-### Ensemble
+## Ensemble
 
 1. Blending
 
