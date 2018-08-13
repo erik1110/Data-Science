@@ -8,9 +8,11 @@
 
 -Chapter 2 : Data Preprocessing
 
+
 ### Regression
 
 -Chapter 3 : Regression
+
 
 ### Classification
 
@@ -26,13 +28,16 @@
 
 -Chapter 9 : Evaluating Classification Models Performance
 
+
 ### Clustering
 
 -Chapter 10 : K-Means Clustering
 
+
 ### Association Rule Learning
 
 -Chapter 11 : Apriori
+
 
 ### Reinforcement Learning
 
@@ -40,15 +45,19 @@
 
 -Chapter 13 : Thompson
 
+
 ### Natural Language Processing
 
 -Chapter 14 : NLP 
+
 
 ### Deep Learning
 
 -Chapter 15 : Artificial Neural Networks
 
+
 -Chapter 16 : Convolutional Neural Networks
+
 
 ### Dimensionality Reduction
 
@@ -56,6 +65,17 @@
 
 -Chapter 18 : Kernel PCA
 
+
 ### Model Selection 
 
 -Chapter 19 :
+
+### Ensemble
+ 
+-Chapter 20 : Gradient Boosting Decision Tree
+
+-Chapter 21 : eXtreme Gradient Boosting(XGBoost)
+
+-Chapter 22 : LightGBM
+  a.[Tuturial](https://zhuanlan.zhihu.com/p/25308051)
+ 
