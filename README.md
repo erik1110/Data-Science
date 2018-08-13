@@ -72,6 +72,7 @@ This is a story related to machine learning and all data science skill.
 
 -[OCR技术】大批量构造中文文字训练集](https://blog.csdn.net/meyh0x5vDTk48P2/article/details/79848753)
 
+-[Google Cloud Vision API](https://github.com/enakai00/jupyter_gcp/blob/master/Vision%20API%20Quick%20Tour.ipynb)
 
 
 ## Chapter 8 : Dimensionality Reduction
