@@ -55,7 +55,7 @@
 
 -Chapter 15 : Artificial Neural Networks
 
-a.[Keras PPT]()
+a.[Keras PPT](https://github.com/erik1110/Machine-Learning/blob/master/Deep%20Learning/Keras/Keras%20%E5%85%A5%E9%96%80.pdf)
 
 b.[Keras Demo](https://github.com/erik1110/Machine-Learning/blob/master/Deep%20Learning/Keras/Keras%20v2.ipynb)
 
