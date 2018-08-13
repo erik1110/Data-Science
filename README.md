@@ -52,9 +52,9 @@
 
 1. Deep Neural Networks(DNN)
 
- a.[Keras PDF](https://github.com/erik1110/Machine-Learning/blob/master/Deep%20Learning/Keras/Keras%20%E5%85%A5%E9%96%80.pdf)
+   a.[Keras PDF](https://github.com/erik1110/Machine-Learning/blob/master/Deep%20Learning/Keras/Keras%20%E5%85%A5%E9%96%80.pdf)
 
- b.[Keras Demo](https://github.com/erik1110/Machine-Learning/blob/master/Deep%20Learning/Keras/Keras%20v2.ipynb)
+   b.[Keras Demo](https://github.com/erik1110/Machine-Learning/blob/master/Deep%20Learning/Keras/Keras%20v2.ipynb)
 
 
 2. Convolutional Neural Networks(CNN)
