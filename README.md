@@ -51,6 +51,8 @@ This is a story related to machine learning and all data science skill.
 
 ## Chapter 7 : Deep Learning
 
+### Introduction
+
 1. Deep Neural Networks(DNN)
 
    a.[Keras PDF](https://github.com/erik1110/Machine-Learning/blob/master/Deep%20Learning/Keras/Keras%20%E5%85%A5%E9%96%80.pdf)
@@ -83,7 +85,7 @@ This is a story related to machine learning and all data science skill.
 
 - Cross Validation
 
-## Ensemble
+## Chapter 10 : Ensemble
 
 1. Blending
 
