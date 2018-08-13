@@ -71,7 +71,7 @@
 
 ### Chapter 9 : Model Selection 
 
--Cross Validation
+- Cross Validation
 
 ### Ensemble
 
@@ -89,6 +89,6 @@
 
 7. LightGBM
 
-  a.[Tuturial](https://zhuanlan.zhihu.com/p/25308051)
+    a.[Tuturial](https://zhuanlan.zhihu.com/p/25308051)
  
  
