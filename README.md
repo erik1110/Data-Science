@@ -2,7 +2,7 @@
 ![Image](https://github.com/erik1110/Machine-Learning/blob/master/DataScience.jpeg)
 ## This is a story related to machine learning and all data science skill.
 
-## Schedule of Machine Learning
+## Map of Machine Learning
 
 - Intorduction
 
