@@ -91,7 +91,7 @@ This is a story related to machine learning and all data science skill.
 
 - GridSearchCV
   
-  1.LightGBM[https://github.com/erik1110/Machine-Learning/blob/master/Model_Selection/GridSearchCV/LightGBM%20with%20GridSearchCV.ipynb]
+  1.[LightGBM](https://github.com/erik1110/Machine-Learning/blob/master/Model_Selection/GridSearchCV/LightGBM%20with%20GridSearchCV.ipynb)
 ## Chapter 10 : Ensemble
 
 1. Blending
