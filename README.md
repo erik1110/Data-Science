@@ -15,7 +15,7 @@ This is a story related to machine learning and all data science skill.
   
   2.[Data Preprocessing Template](https://github.com/erik1110/Machine-Learning/blob/master/Data%20Preprocessing%20Template.ipynb)
   
-  3.[Feature Scaling] ![Image](https://github.com/erik1110/Machine-Learning/blob/master/Feature%20Scaling.png)
+  3.Feature Scaling ![Image](https://github.com/erik1110/Machine-Learning/blob/master/Feature%20Scaling.png)
 
 
 ## Chapter 2 : Regression
