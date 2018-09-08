@@ -12,7 +12,9 @@ This is a story related to machine learning and all data science skill.
 - Data Preprocessing
   
   1.[整理numpy和pandas中 axis(軸)的概念](http://changtw-blog.logdown.com/posts/895468-python-numpy-axis-concept-organize-notes)
+  
   2.[Data Preprocessing Template](https://github.com/erik1110/Machine-Learning/blob/master/Data%20Preprocessing%20Template.ipynb)
+  
   3.[Feature Scaling] ![Image](https://github.com/erik1110/Machine-Learning/blob/master/Feature%20Scaling.png)
 
 
