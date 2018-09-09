@@ -84,9 +84,9 @@ This is a story related to machine learning and all data science skill.
 
 ## Chapter 8 : Dimensionality Reduction
 
-1. Principal Component Analysis
+1. [Principal Component Analysis](https://github.com/erik1110/Machine-Learning/blob/master/Dimensionality%20Reduction/PCA.ipynb)
 
-2. Kernel PCA
+2. [Kernel PCA](https://github.com/erik1110/Machine-Learning/blob/master/Dimensionality%20Reduction/Kernel%20PCA.ipynb)
 
 
 ## Chapter 9 : Model Selection 
