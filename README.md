@@ -19,7 +19,7 @@ This is a story related to machine learning and all data science skill.
 
 ## Chapter 2 : Regression
 
-- Regression
+1. [Simple Regression](https://github.com/erik1110/Machine-Learning/blob/master/Regression/Simple%20Regression.ipynb)
 
 
 ## Chapter 3 : Classification
