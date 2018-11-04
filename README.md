@@ -51,6 +51,12 @@ This is a story related to machine learning and all data science skill.
 
 ## Chapter 6 : Natural Language Processing
 
+> 1.[TF-IDF使用](https://github.com/erik1110/Machine-Learning/blob/master/Natural%20Language%20Processing/TF%E2%80%93IDF%20Demo.ipynb)
+
+> 2.[nltk](https://github.com/erik1110/Machine-Learning/blob/master/Natural%20Language%20Processing/%E8%A9%9E%E6%80%A7%E9%82%84%E5%8E%9F%E5%B7%A5%E5%85%B7.ipynb)
+
+> 3.[What's cooking](https://github.com/erik1110/Machine-Learning/blob/master/Natural%20Language%20Processing/What's%20cooking-nltk.ipynb)
+
 - word2vec 
 
 
