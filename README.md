@@ -15,6 +15,12 @@ This is a story related to machine learning and all data science skill.
   2.[Data Preprocessing Template](https://github.com/erik1110/Machine-Learning/blob/master/Data%20Preprocessing%20Template.ipynb)
   
   3.Feature Scaling ![Image](https://github.com/erik1110/Machine-Learning/blob/master/Feature%20Scaling.png)
+  
+  4.1[Excel與Pandas之間的愛恨糾葛-好文分享1](http://bluewhale.cc/2017-04-06/use-python-for-data-analysis-like-excel-1.html)
+  
+  4.2[Excel與Pandas之間的愛恨糾葛-好文分享2](https://kknews.cc/zh-tw/tech/y8jmrva.html)
+  
+  4.3[Excel與Pandas之間的愛恨糾葛-好文分享3](http://bluewhale.cc/2017-04-21/use-python-for-data-analysis-like-excel-3.html)
 
 
 ## Chapter 2 : Regression
@@ -56,6 +62,8 @@ This is a story related to machine learning and all data science skill.
 > 2.[nltk](https://github.com/erik1110/Machine-Learning/blob/master/Natural%20Language%20Processing/%E8%A9%9E%E6%80%A7%E9%82%84%E5%8E%9F%E5%B7%A5%E5%85%B7.ipynb)
 
 > 3.[What's cooking](https://github.com/erik1110/Machine-Learning/blob/master/Natural%20Language%20Processing/What's%20cooking-nltk.ipynb)
+
+> 4.[正規表達式練習題](https://regexone.com/)
 
 - word2vec 
 
