@@ -26,7 +26,7 @@ This is a story related to machine learning and all data science skill.
 
 1. Logistic Regression
 
-2. Support Vector Machine
+2. [Support Vector Machine](https://github.com/erik1110/Data-Science/blob/master/SVM/SVM.ipynb)
 
 3. Native Bayes
 
