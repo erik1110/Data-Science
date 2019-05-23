@@ -2,9 +2,17 @@
 
 This is a story related to machine learning and all data science skill.
 
-## Map of Machine Learning
+## Keys of Machine Learning
 
-- Intorduction
+- Steps for building a Machine Learning
+  
+  1.Asking Questions
+  
+  2.Data Preparation(Preprocessing:Categorial feature,missing value and standardization;feature selection)
+  
+  3.Building Models with Different Hyperparameters
+  
+  4.Test and Evaluate Models
 
 ## Chapter 1 : Data Analysis Skill
 
