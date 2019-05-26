@@ -16,11 +16,11 @@ This is a story related to machine learning and all data science skill.
   
 - Machine Learning Models
 
-  1. Objective function (loss function)
+  1.Objective function (loss function)
   
-  2. Approximation function (to approximate the true function)
+  2.Approximation function (to approximate the true function)
   
-  3. Optimization Method (to optimize the objective function)
+  3.Optimization Method (to optimize the objective function)
 
 ## Chapter 1 : Data Analysis Skill
 
