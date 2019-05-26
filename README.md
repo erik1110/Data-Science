@@ -13,6 +13,14 @@ This is a story related to machine learning and all data science skill.
   3.Building Models with Different Hyperparameters
   
   4.Test and Evaluate Models
+  
+- Machine Learning Models
+
+  1. Objective function (loss function)
+  
+  2. Approximation function (to approximate the true function)
+  
+  3. Optimization Method (to optimize the objective function)
 
 ## Chapter 1 : Data Analysis Skill
 
