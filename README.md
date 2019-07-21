@@ -46,7 +46,7 @@ This is a story related to machine learning and all data science skill.
 
 ## Chapter 3 : Classification
 
-1. Logistic Regression
+1. [Logistic Regression](https://github.com/erik1110/Data-Science/blob/master/Logistic_Regression/logistic_regression.ipynb)
 
 2. [Support Vector Machine](https://github.com/erik1110/Data-Science/blob/master/SVM/SVM.ipynb)
 
