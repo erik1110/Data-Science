@@ -52,7 +52,7 @@ This is a story related to machine learning and all data science skill.
 
 3. Native Bayes
 
-4. Decision Tree
+4. [Decision Tree](https://github.com/erik1110/Data-Science/blob/master/Decision%20Tree/decision_tree.ipynb)
 
 5. Random Forest 
 
