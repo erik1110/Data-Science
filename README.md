@@ -54,7 +54,7 @@ This is a story related to machine learning and all data science skill.
 
 4. [Decision Tree](https://github.com/erik1110/Data-Science/blob/master/Decision%20Tree/decision_tree.ipynb)
 
-5. Random Forest 
+5. [Random Forest](https://github.com/erik1110/Data-Science/blob/master/Random%20Forest/Random%20Forest.ipynb) 
 
 6. Evaluating Classification Models Performance
 
