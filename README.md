@@ -111,6 +111,8 @@ This is a story related to machine learning and all data science skill.
 
 -[Google Cloud Text API](https://blog.gtwang.org/programming/automation-of-google-ocr-using-python-tutorial/)
 
+- [RNN李宏毅上課的筆記](https://hackmd.io/W9Kp4ZlGSqqwPxYHbEmAUA)
+
 ## Chapter 8 : Dimensionality Reduction
 
 1. [Principal Component Analysis](https://github.com/erik1110/Machine-Learning/blob/master/Dimensionality%20Reduction/PCA.ipynb)
