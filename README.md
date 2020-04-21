@@ -103,13 +103,13 @@ This is a story related to machine learning and all data science skill.
 
 ### 影像辨識
 
--[關於影像辨識，所有你應該知道的深度學習模型](https://medium.com/@syshen/%E7%89%A9%E9%AB%94%E5%81%B5%E6%B8%AC-object-detection-740096ec4540)
+- [關於影像辨識，所有你應該知道的深度學習模型](https://medium.com/@syshen/%E7%89%A9%E9%AB%94%E5%81%B5%E6%B8%AC-object-detection-740096ec4540)
 
--[OCR技术】大批量构造中文文字训练集](https://blog.csdn.net/meyh0x5vDTk48P2/article/details/79848753)
+- [OCR技术】大批量构造中文文字训练集](https://blog.csdn.net/meyh0x5vDTk48P2/article/details/79848753)
 
--[Google Cloud Vision API](https://github.com/enakai00/jupyter_gcp/blob/master/Vision%20API%20Quick%20Tour.ipynb)
+- [Google Cloud Vision API](https://github.com/enakai00/jupyter_gcp/blob/master/Vision%20API%20Quick%20Tour.ipynb)
 
--[Google Cloud Text API](https://blog.gtwang.org/programming/automation-of-google-ocr-using-python-tutorial/)
+- [Google Cloud Text API](https://blog.gtwang.org/programming/automation-of-google-ocr-using-python-tutorial/)
 
 - [RNN李宏毅上課的筆記](https://hackmd.io/W9Kp4ZlGSqqwPxYHbEmAUA)
 
