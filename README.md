@@ -76,10 +76,10 @@ This is a story related to machine learning and all data science skill.
 1. Cross Validation
 2. GridSearchCV
   - [LightGBM](https://github.com/erik1110/Machine-Learning/blob/master/Model_Selection/GridSearchCV/LightGBM%20with%20GridSearchCV.ipynb)
-## Chapter 9 : Git Tutorial
-## Chapter 10 : Model Deployment
-## Chapter 11 : Model Monitoring
-## Chapter 12 : Deep Learning
+## Level 9 : Git Tutorial
+## Level 10 : Model Deployment
+## Level 11 : Model Monitoring
+## Level 12 : Deep Learning
 
 ### Natural Language Processing
 
@@ -113,5 +113,5 @@ This is a story related to machine learning and all data science skill.
    - [OCR技术：大批量构造中文文字训练集](https://blog.csdn.net/meyh0x5vDTk48P2/article/details/79848753)
    - [Google Cloud Vision API](https://github.com/enakai00/jupyter_gcp/blob/master/Vision%20API%20Quick%20Tour.ipynb)
    - [Google Cloud Text API](https://blog.gtwang.org/programming/automation-of-google-ocr-using-python-tutorial/)
-## Chapter 13 : Docker
+## Level 13 : Docker
  
