@@ -22,7 +22,8 @@ This is a story related to machine learning and all data science skill.
   
   3.Optimization Method (to optimize the objective function)
 
-## Chapter 1 : Data Analysis Skill
+## Level 1 : Python Basic Skills
+## Level 2 : Data Preprocessing
 
 - Data Preprocessing
   
@@ -32,46 +33,55 @@ This is a story related to machine learning and all data science skill.
   
   3.Feature Scaling ![Image](https://github.com/erik1110/Machine-Learning/blob/master/Feature%20Scaling.png)
   
-  4.1[Excel與Pandas之間的愛恨糾葛-好文分享1](http://bluewhale.cc/2017-04-06/use-python-for-data-analysis-like-excel-1.html)
+  4.[Excel與Pandas之間的愛恨糾葛-好文分享1](http://bluewhale.cc/2017-04-06/use-python-for-data-analysis-like-excel-1.html)
   
-  4.2[Excel與Pandas之間的愛恨糾葛-好文分享2](https://kknews.cc/zh-tw/tech/y8jmrva.html)
+  5.[Excel與Pandas之間的愛恨糾葛-好文分享2](https://kknews.cc/zh-tw/tech/y8jmrva.html)
   
-  4.3[Excel與Pandas之間的愛恨糾葛-好文分享3](http://bluewhale.cc/2017-04-21/use-python-for-data-analysis-like-excel-3.html)
+  6.[Excel與Pandas之間的愛恨糾葛-好文分享3](http://bluewhale.cc/2017-04-21/use-python-for-data-analysis-like-excel-3.html)
 
+## Level 3 : Data Visualizing
+## Level 4 : Introduction of Tools
+## Level 5 : Database Related
+## Level 6 : Python Advanced Skills
+## Level 7 : Model Prerequisite Knowledge
+### Dimensionality Reduction
+1. [Principal Component Analysis](https://github.com/erik1110/Machine-Learning/blob/master/Dimensionality%20Reduction/PCA.ipynb)
+2. [Kernel PCA](https://github.com/erik1110/Machine-Learning/blob/master/Dimensionality%20Reduction/Kernel%20PCA.ipynb)
 
-## Chapter 2 : Regression
+## Level 8 : Model Development
+### Regression
 
 1. [Simple Regression](https://github.com/erik1110/Machine-Learning/blob/master/Regression/Simple%20Regression.ipynb)
 
-
-## Chapter 3 : Classification
-
+### Classification
 1. [Logistic Regression](https://github.com/erik1110/Data-Science/blob/master/Logistic_Regression/logistic_regression.ipynb)
-
 2. [Support Vector Machine](https://github.com/erik1110/Data-Science/blob/master/SVM/SVM.ipynb)
-
 3. Native Bayes
-
 4. [Decision Tree](https://github.com/erik1110/Data-Science/blob/master/Decision%20Tree/decision_tree.ipynb)
-
 5. [Random Forest](https://github.com/erik1110/Data-Science/blob/master/Random%20Forest/Random%20Forest.ipynb) 
-
 6. Evaluating Classification Models Performance
 
+### Clustering
+1. K-Means Clustering
+### Ensemble
+1. Blending
+2. Bagging 
+3. Bootstrap
+4. Adaptive Boosting Algorithm(AdaBoost)
+5. Gradient Boosting Decision Tree(GBDT)
+6. eXtreme Gradient Boosting(XGBoost)
+7. LightGBM
+  - [Tuturial](https://zhuanlan.zhihu.com/p/25308051)
+### Model Selection 
+1. Cross Validation
+2. GridSearchCV
+  - [LightGBM](https://github.com/erik1110/Machine-Learning/blob/master/Model_Selection/GridSearchCV/LightGBM%20with%20GridSearchCV.ipynb)
+## Chapter 9 : Git Tutorial
+## Chapter 10 : Model Deployment
+## Chapter 11 : Model Monitoring
+## Chapter 12 : Deep Learning
 
-## Chapter 4 : Clustering
-
-- K-Means Clustering
-
-
-## Chapter 5 : Reinforcement Learning
-
-1. Upper Confidence Bound or UCB
-
-2. Thompson
-
-
-## Chapter 6 : Natural Language Processing
+### Natural Language Processing
 
 > 1.[TF-IDF使用](https://github.com/erik1110/Machine-Learning/blob/master/Natural%20Language%20Processing/TF%E2%80%93IDF%20Demo.ipynb)
 
@@ -84,9 +94,7 @@ This is a story related to machine learning and all data science skill.
 - word2vec 
 
 
-## Chapter 7 : Deep Learning
-
-### Introduction
+### Computer Vision
 
 1. Deep Neural Networks(DNN)
 
@@ -101,46 +109,9 @@ This is a story related to machine learning and all data science skill.
    
 3. Recurrent Neural Network(RNN)
    - RNN李宏毅上課的筆記](https://hackmd.io/W9Kp4ZlGSqqwPxYHbEmAUA)
-### 影像辨識
+   - [關於影像辨識，所有你應該知道的深度學習模型](https://medium.com/@syshen/%E7%89%A9%E9%AB%94%E5%81%B5%E6%B8%AC-object-detection-740096ec4540)
+   - [OCR技术：大批量构造中文文字训练集](https://blog.csdn.net/meyh0x5vDTk48P2/article/details/79848753)
+   - [Google Cloud Vision API](https://github.com/enakai00/jupyter_gcp/blob/master/Vision%20API%20Quick%20Tour.ipynb)
+   - [Google Cloud Text API](https://blog.gtwang.org/programming/automation-of-google-ocr-using-python-tutorial/)
 
-- [關於影像辨識，所有你應該知道的深度學習模型](https://medium.com/@syshen/%E7%89%A9%E9%AB%94%E5%81%B5%E6%B8%AC-object-detection-740096ec4540)
-
-- [OCR技术：大批量构造中文文字训练集](https://blog.csdn.net/meyh0x5vDTk48P2/article/details/79848753)
-
-- [Google Cloud Vision API](https://github.com/enakai00/jupyter_gcp/blob/master/Vision%20API%20Quick%20Tour.ipynb)
-
-- [Google Cloud Text API](https://blog.gtwang.org/programming/automation-of-google-ocr-using-python-tutorial/)
-
-## Chapter 8 : Dimensionality Reduction
-
-1. [Principal Component Analysis](https://github.com/erik1110/Machine-Learning/blob/master/Dimensionality%20Reduction/PCA.ipynb)
-
-2. [Kernel PCA](https://github.com/erik1110/Machine-Learning/blob/master/Dimensionality%20Reduction/Kernel%20PCA.ipynb)
-
-
-## Chapter 9 : Model Selection 
-
-- Cross Validation
-
-- GridSearchCV
-  
-  1.[LightGBM](https://github.com/erik1110/Machine-Learning/blob/master/Model_Selection/GridSearchCV/LightGBM%20with%20GridSearchCV.ipynb)
-## Chapter 10 : Ensemble
-
-1. Blending
-
-2. Bagging 
-
-3. Bootstrap
-
-4. Adaptive Boosting Algorithm(AdaBoost)
-
-5. Gradient Boosting Decision Tree(GBDT)
-
-6. eXtreme Gradient Boosting(XGBoost)
-
-7. LightGBM
-
-    a.[Tuturial](https://zhuanlan.zhihu.com/p/25308051)
- 
  
