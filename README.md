@@ -45,7 +45,7 @@ This is a story related to machine learning and all data science skill.
 ## Level 6 : Python Advanced Skills
 ## Level 7 : Model Prerequisite Knowledge
 ### Dimensionality Reduction
-1. [Principal Component Analysis](https://github.com/erik1110/Machine-Learning/blob/master/Dimensionality%20Reduction/PCA.ipynb)
+1. [Principal Component Analysis](https://github.com/erik1110/Data-Science/blob/master/07_Model_Prerequisite_Knowledge/Data%20Preprocessing%20Template.ipynb)
 2. [Kernel PCA](https://github.com/erik1110/Machine-Learning/blob/master/Dimensionality%20Reduction/Kernel%20PCA.ipynb)
 
 ## Level 8 : Model Development
@@ -54,7 +54,7 @@ This is a story related to machine learning and all data science skill.
 1. [Simple Regression](https://github.com/erik1110/Machine-Learning/blob/master/Regression/Simple%20Regression.ipynb)
 
 ### Classification
-1. [Logistic Regression](https://github.com/erik1110/Data-Science/blob/master/Logistic_Regression/logistic_regression.ipynb)
+1. [Logistic Regression](https://github.com/erik1110/Data-Science/blob/master/08_Model_Development/Models/Logistic_Regression/logistic_regression.ipynb)
 2. [Support Vector Machine](https://github.com/erik1110/Data-Science/blob/master/SVM/SVM.ipynb)
 3. Native Bayes
 4. [Decision Tree](https://github.com/erik1110/Data-Science/blob/master/Decision%20Tree/decision_tree.ipynb)
