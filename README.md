@@ -29,54 +29,73 @@ This is a story related to machine learning and all data science skill.
   
   1.[整理numpy和pandas中 axis(軸)的概念](http://changtw-blog.logdown.com/posts/895468-python-numpy-axis-concept-organize-notes)
   
-  2.[Data Preprocessing Template](https://github.com/erik1110/Machine-Learning/blob/master/Data%20Preprocessing%20Template.ipynb)
+  2.[Excel與Pandas之間的愛恨糾葛-好文分享1](http://bluewhale.cc/2017-04-06/use-python-for-data-analysis-like-excel-1.html)
   
-  3.Feature Scaling ![Image](https://github.com/erik1110/Machine-Learning/blob/master/Feature%20Scaling.png)
+  3.[Excel與Pandas之間的愛恨糾葛-好文分享2](https://kknews.cc/zh-tw/tech/y8jmrva.html)
   
-  4.[Excel與Pandas之間的愛恨糾葛-好文分享1](http://bluewhale.cc/2017-04-06/use-python-for-data-analysis-like-excel-1.html)
-  
-  5.[Excel與Pandas之間的愛恨糾葛-好文分享2](https://kknews.cc/zh-tw/tech/y8jmrva.html)
-  
-  6.[Excel與Pandas之間的愛恨糾葛-好文分享3](http://bluewhale.cc/2017-04-21/use-python-for-data-analysis-like-excel-3.html)
+  4.[Excel與Pandas之間的愛恨糾葛-好文分享3](http://bluewhale.cc/2017-04-21/use-python-for-data-analysis-like-excel-3.html)
 
 ## Level 3 : Data Visualizing
 ## Level 4 : Introduction of Tools
+- [JupyterLab](https://experienceleague.adobe.com/docs/experience-platform/data-science-workspace/jupyterlab/overview.html?lang=zh-Hant)
+- [Vscode](https://walker-a.com/archives/6242)
 ## Level 5 : Database Related
 ## Level 6 : Python Advanced Skills
+### Object-oriented programming
+### Error & Exception
+### Decorator
 ## Level 7 : Model Prerequisite Knowledge
-### Dimensionality Reduction
+### Machine Learning Theory
+[李宏毅教授的影片](https://www.youtube.com/watch?v=CXgbekl66jc&list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49&ab_channel=Hung-yiLee)
+- Introduction of Machine Learning
+- Regression-Case Study
+- Regression-Demo
+- What does the error come from?
+- Gradient Descent
+- Classification
+- Logistic Regression
+### Model Building Workflow
+### Evaluating Models Performance
+### Data Preprocessing
+#### Data Engineering
+- Feature Scaling ![Image](https://github.com/erik1110/Machine-Learning/blob/master/Feature%20Scaling.png)
+- [Data Preprocessing Template](https://github.com/erik1110/Machine-Learning/blob/master/Data%20Preprocessing%20Template.ipynb)
+#### Dimensionality Reduction
 1. [Principal Component Analysis](https://github.com/erik1110/Data-Science/blob/master/07_Model_Prerequisite_Knowledge/Data%20Preprocessing%20Template.ipynb)
 2. [Kernel PCA](https://github.com/erik1110/Machine-Learning/blob/master/Dimensionality%20Reduction/Kernel%20PCA.ipynb)
-
+#### Train-Test Split
 ## Level 8 : Model Development
-### Regression
-
-1. [Simple Regression](https://github.com/erik1110/Machine-Learning/blob/master/Regression/Simple%20Regression.ipynb)
-
-### Classification
-1. [Logistic Regression](https://github.com/erik1110/Data-Science/blob/master/08_Model_Development/Models/Logistic_Regression/logistic_regression.ipynb)
-2. [Support Vector Machine](https://github.com/erik1110/Data-Science/blob/master/SVM/SVM.ipynb)
-3. Native Bayes
-4. [Decision Tree](https://github.com/erik1110/Data-Science/blob/master/Decision%20Tree/decision_tree.ipynb)
-5. [Random Forest](https://github.com/erik1110/Data-Science/blob/master/Random%20Forest/Random%20Forest.ipynb) 
-6. Evaluating Classification Models Performance
-
-### Clustering
-1. K-Means Clustering
-### Ensemble
-1. Blending
-2. Bagging 
-3. Bootstrap
-4. Adaptive Boosting Algorithm(AdaBoost)
-5. Gradient Boosting Decision Tree(GBDT)
-6. eXtreme Gradient Boosting(XGBoost)
-7. LightGBM
-  - [Tuturial](https://zhuanlan.zhihu.com/p/25308051)
+### Build Models
+- Regression
+  [Simple Regression](https://github.com/erik1110/Machine-Learning/blob/master/Regression/Simple%20Regression.ipynb)
+- Classification
+  - 1. [Logistic Regression](https://github.com/erik1110/Data-Science/blob/master/08_Model_Development/Models/Logistic_Regression/logistic_regression.ipynb)
+  - 2. [Support Vector Machine](https://github.com/erik1110/Data-Science/blob/master/SVM/SVM.ipynb)
+  - 3. Native Bayes
+  - 4. [Decision Tree](https://github.com/erik1110/Data-Science/blob/master/Decision%20Tree/decision_tree.ipynb)
+  - 5. [Random Forest](https://github.com/erik1110/Data-Science/blob/master/Random%20Forest/Random%20Forest.ipynb) 
+  - 6. Evaluating Classification Models Performance
+- Clustering
+  K-Means Clustering
+- Ensemble
+  - 1. Blending
+  - 2. Bagging 
+  - 3. Bootstrap
+  - 4. Adaptive Boosting Algorithm(AdaBoost)
+  - 5. Gradient Boosting Decision Tree(GBDT)
+  - 6. eXtreme Gradient Boosting(XGBoost)
+  - 7. LightGBM
+    [Tuturial](https://zhuanlan.zhihu.com/p/25308051)
 ### Model Selection 
 1. Cross Validation
 2. GridSearchCV
   - [LightGBM](https://github.com/erik1110/Machine-Learning/blob/master/Model_Selection/GridSearchCV/LightGBM%20with%20GridSearchCV.ipynb)
 ## Level 9 : Git Tutorial
+### Introductuin
+### Branch
+### Basic Skills
+### Pull Request
+### Tag
 ## Level 10 : Model Deployment
 ## Level 11 : Model Monitoring
 ## Level 12 : Deep Learning
