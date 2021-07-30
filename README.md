@@ -33,19 +33,20 @@ This is a story related to machine learning and all data science skill.
 ## Level 2 : Data Preprocessing
 
 - Data Preprocessing
-  
-  1.[整理numpy和pandas中 axis(軸)的概念](http://changtw-blog.logdown.com/posts/895468-python-numpy-axis-concept-organize-notes)
-  
-  2.[Excel與Pandas之間的愛恨糾葛-好文分享1](http://bluewhale.cc/2017-04-06/use-python-for-data-analysis-like-excel-1.html)
-  
-  3.[Excel與Pandas之間的愛恨糾葛-好文分享2](https://kknews.cc/zh-tw/tech/y8jmrva.html)
-  
-  4.[Excel與Pandas之間的愛恨糾葛-好文分享3](http://bluewhale.cc/2017-04-21/use-python-for-data-analysis-like-excel-3.html)
-  
-  5.[Numpy & Pandas 簡介](https://mofanpy.com/tutorials/data-manipulation/np-pd/)
+  - 1.[整理numpy和pandas中 axis(軸)的概念](http://changtw-blog.logdown.com/posts/895468-python-numpy-axis-concept-organize-notes)
+  - 2.[Excel與Pandas之間的愛恨糾葛-好文分享1](http://bluewhale.cc/2017-04-06/use-python-for-data-analysis-like-excel-1.html)
+  - 3.[Excel與Pandas之間的愛恨糾葛-好文分享2](https://kknews.cc/zh-tw/tech/y8jmrva.html)
+  - 4.[Excel與Pandas之間的愛恨糾葛-好文分享3](http://bluewhale.cc/2017-04-21/use-python-for-data-analysis-like-excel-3.html)
+  - 5.[Numpy & Pandas 簡介](https://mofanpy.com/tutorials/data-manipulation/np-pd/)
+  - 6.[[Day03]Python的基本運算！（上）](https://ithelp.ithome.com.tw/articles/10192814)
+  - 7.[[Day04]Python的基本運算！（下）](https://ithelp.ithome.com.tw/articles/10193001)
 
 ## Level 3 : Data Visualizing
+- [[Day19]Matplotlib讓資料視覺化！](https://ithelp.ithome.com.tw/articles/10196239)
+- [[Day20]Matplotlib資料視覺化進階！](https://ithelp.ithome.com.tw/articles/10196410)
 ## Level 4 : Introduction of Tools
+- [[Day02]Jupyter Notebook操作介紹！
+](https://ithelp.ithome.com.tw/articles/10192614)
 - [JupyterLab](https://experienceleague.adobe.com/docs/experience-platform/data-science-workspace/jupyterlab/overview.html?lang=zh-Hant)
 - [Vscode](https://walker-a.com/archives/6242)
 ## Level 5 : Database Related
@@ -55,6 +56,7 @@ This is a story related to machine learning and all data science skill.
 ### Decorator
 ## Level 7 : Model Prerequisite Knowledge
 ### Machine Learning Theory
+- [[Day24]什麼是機器學習Machine Learning？](https://ithelp.ithome.com.tw/articles/10196922)
 - [李宏毅教授的影片](https://www.youtube.com/watch?v=CXgbekl66jc&list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49&ab_channel=Hung-yiLee)
   - Introduction of Machine Learning
   - Regression-Case Study
@@ -96,8 +98,9 @@ This is a story related to machine learning and all data science skill.
   - 7. LightGBM
     [Tuturial](https://zhuanlan.zhihu.com/p/25308051)
 ### Model Selection 
-1. Cross Validation
-2. GridSearchCV
+- 1. Cross Validation
+  - [[Day29]機器學習：交叉驗證！](https://ithelp.ithome.com.tw/articles/10197461)
+- 2. GridSearchCV
   - [LightGBM](https://github.com/erik1110/Machine-Learning/blob/master/Model_Selection/GridSearchCV/LightGBM%20with%20GridSearchCV.ipynb)
 ## Level 9 : Git Tutorial
 - [Git介紹](https://mofanpy.com/tutorials/others/git/)
