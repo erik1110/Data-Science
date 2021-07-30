@@ -23,6 +23,13 @@ This is a story related to machine learning and all data science skill.
   3.Optimization Method (to optimize the objective function)
 
 ## Level 1 : Python Basic Skills
+  - [Codecadedy Learn Python 3](https://www.codecademy.com/learn/learn-python-3)
+  - Learning Points:
+    - Python IO
+    - Data Type
+    - Container
+    - Control Flow
+    - Function 
 ## Level 2 : Data Preprocessing
 
 - Data Preprocessing
@@ -34,6 +41,8 @@ This is a story related to machine learning and all data science skill.
   3.[Excel與Pandas之間的愛恨糾葛-好文分享2](https://kknews.cc/zh-tw/tech/y8jmrva.html)
   
   4.[Excel與Pandas之間的愛恨糾葛-好文分享3](http://bluewhale.cc/2017-04-21/use-python-for-data-analysis-like-excel-3.html)
+  
+  5.[Numpy & Pandas 簡介](https://mofanpy.com/tutorials/data-manipulation/np-pd/)
 
 ## Level 3 : Data Visualizing
 ## Level 4 : Introduction of Tools
@@ -46,14 +55,14 @@ This is a story related to machine learning and all data science skill.
 ### Decorator
 ## Level 7 : Model Prerequisite Knowledge
 ### Machine Learning Theory
-[李宏毅教授的影片](https://www.youtube.com/watch?v=CXgbekl66jc&list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49&ab_channel=Hung-yiLee)
-- Introduction of Machine Learning
-- Regression-Case Study
-- Regression-Demo
-- What does the error come from?
-- Gradient Descent
-- Classification
-- Logistic Regression
+- [李宏毅教授的影片](https://www.youtube.com/watch?v=CXgbekl66jc&list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49&ab_channel=Hung-yiLee)
+  - Introduction of Machine Learning
+  - Regression-Case Study
+  - Regression-Demo
+  - What does the error come from?
+  - Gradient Descent
+  - Classification
+  - Logistic Regression
 ### Model Building Workflow
 ### Evaluating Models Performance
 ### Data Preprocessing
@@ -91,6 +100,7 @@ This is a story related to machine learning and all data science skill.
 2. GridSearchCV
   - [LightGBM](https://github.com/erik1110/Machine-Learning/blob/master/Model_Selection/GridSearchCV/LightGBM%20with%20GridSearchCV.ipynb)
 ## Level 9 : Git Tutorial
+- [Git介紹](https://mofanpy.com/tutorials/others/git/)
 ### Introductuin
 ### Branch
 ### Basic Skills
