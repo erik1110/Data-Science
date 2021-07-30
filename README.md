@@ -23,34 +23,38 @@ This is a story related to machine learning and all data science skill.
   3.Optimization Method (to optimize the objective function)
 
 ## Level 1 : Python Basic Skills
-  - [Codecadedy Learn Python 3](https://www.codecademy.com/learn/learn-python-3)
-  - Learning Points:
-    - Python IO
-    - Data Type
-    - Container
-    - Control Flow
-    - Function 
+- [Assignment](https://github.com/erik1110/Data-Science/blob/master/01_Python_Basic_Skills/HW/hw_01.ipynb)
+- [Codecadedy Learn Python 3](https://www.codecademy.com/learn/learn-python-3)
+- Learning Points:
+  - Python IO
+  - Data Type
+  - Container
+  - Control Flow
+  - Function 
 ## Level 2 : Data Preprocessing
-
-- Data Preprocessing
-  - [整理numpy和pandas中 axis(軸)的概念](http://changtw-blog.logdown.com/posts/895468-python-numpy-axis-concept-organize-notes)
-  - [Excel與Pandas之間的愛恨糾葛-好文分享1](http://bluewhale.cc/2017-04-06/use-python-for-data-analysis-like-excel-1.html)
-  - [Excel與Pandas之間的愛恨糾葛-好文分享2](https://kknews.cc/zh-tw/tech/y8jmrva.html)
-  - [Excel與Pandas之間的愛恨糾葛-好文分享3](http://bluewhale.cc/2017-04-21/use-python-for-data-analysis-like-excel-3.html)
-  - [Numpy & Pandas 簡介](https://mofanpy.com/tutorials/data-manipulation/np-pd/)
-  - [[Day03]Python的基本運算！（上）](https://ithelp.ithome.com.tw/articles/10192814)
-  - [[Day04]Python的基本運算！（下）](https://ithelp.ithome.com.tw/articles/10193001)
+- [Assignment](https://github.com/erik1110/Data-Science/blob/master/02_Data_Preprocessing/HW/hw_02.ipynb)
+- [整理numpy和pandas中 axis(軸)的概念](http://changtw-blog.logdown.com/posts/895468-python-numpy-axis-concept-organize-notes)
+- [Excel與Pandas之間的愛恨糾葛-好文分享1](http://bluewhale.cc/2017-04-06/use-python-for-data-analysis-like-excel-1.html)
+- [Excel與Pandas之間的愛恨糾葛-好文分享2](https://kknews.cc/zh-tw/tech/y8jmrva.html)
+- [Excel與Pandas之間的愛恨糾葛-好文分享3](http://bluewhale.cc/2017-04-21/use-python-for-data-analysis-like-excel-3.html)
+- [Numpy & Pandas 簡介](https://mofanpy.com/tutorials/data-manipulation/np-pd/)
+- [[Day03]Python的基本運算！（上）](https://ithelp.ithome.com.tw/articles/10192814)
+- [[Day04]Python的基本運算！（下）](https://ithelp.ithome.com.tw/articles/10193001)
 
 ## Level 3 : Data Visualizing
+- [Assignment](https://github.com/erik1110/Data-Science/blob/master/03_Data_Visualizing/HW/hw_03.ipynb)
 - [[Day19]Matplotlib讓資料視覺化！](https://ithelp.ithome.com.tw/articles/10196239)
 - [[Day20]Matplotlib資料視覺化進階！](https://ithelp.ithome.com.tw/articles/10196410)
 ## Level 4 : Introduction of Tools
-- [[Day02]Jupyter Notebook操作介紹！
-](https://ithelp.ithome.com.tw/articles/10192614)
+- [[Day02]Jupyter Notebook操作介紹！](https://ithelp.ithome.com.tw/articles/10192614)
 - [JupyterLab](https://experienceleague.adobe.com/docs/experience-platform/data-science-workspace/jupyterlab/overview.html?lang=zh-Hant)
 - [Vscode](https://walker-a.com/archives/6242)
 ## Level 5 : Database Related
+- [Material](https://github.com/erik1110/Data-Science/blob/master/05_Database_Related/psycopg2_learning.ipynb)
+- [Assignment]()
 ## Level 6 : Python Advanced Skills
+- [Material](https://github.com/erik1110/Data-Science/blob/master/06_Python_Advanced_Skills/python_advanced_skills_learning.ipynb)
+- [Assignment]()
 ### Object-oriented programming
 ### Error & Exception
 ### Decorator
