@@ -71,6 +71,7 @@ This is a story related to machine learning and all data science skill.
 | -------- | -------- |
 | Material 1 | [06_M1_Object-Oriented-Programming](https://github.com/erik1110/Data-Science/blob/master/06_Python_Advanced_Skills/06_M1_Object-Oriented-Programming.ipynb)  |
 | Material 2 | [06_M2_Error_and_Exception](https://github.com/erik1110/Data-Science/blob/master/06_Python_Advanced_Skills/06_M2_Error_and_Exception.ipynb)  | 
+| Material 3 | [06_M3_Decorator](https://github.com/erik1110/Data-Science/blob/master/06_Python_Advanced_Skills/06_M3_Decorator.ipynb)  | 
 | Assignment | |
 | Reference||
 | Reference||
