@@ -26,6 +26,17 @@
 | pwd   | 顯示目前路徑 | ``` pwd ```     |
 | crtl+c   | 強制停止目前指令執行 |   |
 
+### 設定 Git Config
+設定帳號名稱和信件
+```
+$ git config --global user.name "your github id"
+$ git config --global user.email "your email@gmail.com"
+```
+查看設定的資訊，按Ｑ可以離開 
+```
+git config --list
+```
+
 ## 3. Git 工作流程
 
 ## 4. 開始使用 Git
