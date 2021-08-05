@@ -127,7 +127,13 @@ This is a story related to machine learning and all data science skill.
 - 2. GridSearchCV
   - [LightGBM](https://github.com/erik1110/Machine-Learning/blob/master/Model_Selection/GridSearchCV/LightGBM%20with%20GridSearchCV.ipynb)
 ## Level 9 : Git Tutorial
-- [Git介紹](https://mofanpy.com/tutorials/others/git/)
+| Name | Link | 
+| -------- | -------- |
+| Material | [09_M1_Git](https://github.com/erik1110/Data-Science/tree/master/09_Git_Tutorial)  |
+| Assignment | |
+| Reference| [Git介紹](https://mofanpy.com/tutorials/others/git/)|
+| Reference||
+
 ### Introductuin
 ### Branch
 ### Basic Skills
