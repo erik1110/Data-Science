@@ -44,6 +44,7 @@ git config --list
 - `git pull` 會將檔案從遠地端儲存庫同步回工作目錄
 - `git fetch` 會將檔案從遠地端儲存庫同步回本地端的儲存庫
 - `git merge` 合併
+
 ![image](https://user-images.githubusercontent.com/40282726/128288079-71e55e2f-514c-4e84-a511-f6e92dcc29c9.png)
 
 ## 4. 開始使用 Git
@@ -57,18 +58,23 @@ git config --list
 
 ### (2) git add
 使用 ``` git add 檔案 ``` ，我們將檔案或資料夾推到暫存區，若我們再用一次 ``` git status ``` 就會發現有提示一個新檔案(new file)
+
 ![image](https://user-images.githubusercontent.com/40282726/128317174-5aa428b3-d079-411c-8c92-2bb57e567ef5.png)
 不建議使用 ``` git add * ```，這個動作雖然可以一次把所有檔案加上，但可能會加到你不要的檔案
 
 ### (3) git reset
 假設剛剛的檔案反悔不想要放到暫存區， 操作``` git rest 檔案 ``` 即可
+
 ![image](https://user-images.githubusercontent.com/40282726/128317486-6715663a-531a-4948-9579-12a09cd389c3.png)
 
 ### (4) git commit
 接著就可以進行提交 commit， 操作``` git commit -m "這次提交想要傳達的訊息" ```
 為了讓每次的提交都知道在做什麼，會寫有意義的內容(你或你的同事要看Ｒ)，記得訊息一定要寫！！
+
 ![image](https://user-images.githubusercontent.com/40282726/128318681-8b86968a-1f00-4f96-b459-0925a4367103.png)
+
 通常我們訊息為了要分別，有一些原則可以參考，會將下列中括號替換成下面的文字
+
 | 原則文字 | 說明 |
 | -------- | -------- |
 | feature   | 新增功能     | 
@@ -80,6 +86,7 @@ git config --list
 
 ### (5) git push
 接著就可以將本地端程式碼推到遠端啦！操作 ``` git push ```
+
 ![image](https://user-images.githubusercontent.com/40282726/128320828-fcad674d-d7fe-4d73-9edc-da18882ce166.png)
 
 ## 5. 分支 (Branch)
