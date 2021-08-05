@@ -129,16 +129,12 @@ This is a story related to machine learning and all data science skill.
 ## Level 9 : Git Tutorial
 | Name | Link | 
 | -------- | -------- |
+| Learning Points | - Introduction - Environment - Git Workflow - Start to Git - Branch - Tag - GitHub |
 | Material | [09_M1_Git](https://github.com/erik1110/Data-Science/tree/master/09_Git_Tutorial)  |
 | Assignment | |
 | Reference| [Git介紹](https://mofanpy.com/tutorials/others/git/)|
 | Reference||
 
-### Introductuin
-### Branch
-### Basic Skills
-### Pull Request
-### Tag
 ## Level 10 : Model Deployment
 ## Level 11 : Model Monitoring
 ## Level 12 : Deep Learning
