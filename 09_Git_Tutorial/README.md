@@ -60,6 +60,7 @@ git config --list
 使用 ``` git add 檔案 ``` ，我們將檔案或資料夾推到暫存區，若我們再用一次 ``` git status ``` 就會發現有提示一個新檔案(new file)
 
 ![image](https://user-images.githubusercontent.com/40282726/128317174-5aa428b3-d079-411c-8c92-2bb57e567ef5.png)
+
 不建議使用 ``` git add * ```，這個動作雖然可以一次把所有檔案加上，但可能會加到你不要的檔案
 
 ### (3) git reset
