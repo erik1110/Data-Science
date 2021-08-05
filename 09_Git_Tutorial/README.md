@@ -64,9 +64,12 @@ git config --list
 不建議使用 ``` git add * ```，這個動作雖然可以一次把所有檔案加上，但可能會加到你不要的檔案
 
 ### (3) git reset
-假設剛剛的檔案反悔不想要放到暫存區， 操作``` git rest 檔案 ``` 即可
+假設剛剛的檔案反悔不想要放到暫存區或是等一下教的commit要取消， 操作``` git reset ``` 即可
 
 ![image](https://user-images.githubusercontent.com/40282726/128317486-6715663a-531a-4948-9579-12a09cd389c3.png)
+
+可以利用 ``` git log ``` 查詢紀錄，也可以直接某一次的版號
+ ``` git reset 號碼(前6碼即可) ``` 
 
 ### (4) git commit
 接著就可以進行提交 commit， 操作``` git commit -m "這次提交想要傳達的訊息" ```
