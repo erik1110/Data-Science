@@ -5,7 +5,17 @@
 我們可以利用 Git 指令將程式碼每次的版本記錄起來，當哪一天需要回頭檢視的時候就可以直接查看。
 
 ## 2. 環境設定
-
+### 安裝 Git
+- 1. [Windows](https://git-scm.com/download/win)
+- 2. MacOS
+  ```
+  brew install git
+  ```
+### 終端機常用指令簡介
+由於 Git 指令是打在終端機，因此有必要認識一下基本的終端機指令。
+| 指令 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
 ## 3. Git 工作流程
 
 ## 4. 開始使用 Git
