@@ -47,7 +47,9 @@ git config --list
 ![image](https://user-images.githubusercontent.com/40282726/128288079-71e55e2f-514c-4e84-a511-f6e92dcc29c9.png)
 
 ## 4. 開始使用 Git
-### status
+### 查看狀態(常用)
+使用 ``` git status ``` ，我們可以查看目前修改了什麼檔案(modified)、刪除什麼檔案(deleted)以及哪些檔案尚未被追蹤(Untracked files)
+![image](https://user-images.githubusercontent.com/40282726/128315588-0890fbd8-ce4c-4e90-a645-f56697332a7f.png)
 
 ### Commit
 
