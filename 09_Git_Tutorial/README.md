@@ -38,6 +38,10 @@ git config --list
 ```
 
 ## 3. Git 工作流程
+- `git add` 會將檔案從工作目錄推到暫存區
+- `git commit` 會將檔案從暫存區推到本地端儲存庫
+
+![image](https://user-images.githubusercontent.com/40282726/128288079-71e55e2f-514c-4e84-a511-f6e92dcc29c9.png)
 
 ## 4. 開始使用 Git
 ### status
