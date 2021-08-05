@@ -47,9 +47,31 @@ git config --list
 ![image](https://user-images.githubusercontent.com/40282726/128288079-71e55e2f-514c-4e84-a511-f6e92dcc29c9.png)
 
 ## 4. 開始使用 Git
-### 查看狀態(常用)
+### 1. 查看狀態
 使用 ``` git status ``` ，我們可以查看目前修改了什麼檔案(modified)、刪除什麼檔案(deleted)以及哪些檔案尚未被追蹤(Untracked files)
-![image](https://user-images.githubusercontent.com/40282726/128315588-0890fbd8-ce4c-4e90-a645-f56697332a7f.png)
+
+![image](https://user-images.githubusercontent.com/40282726/128316621-580140fb-6097-490c-acef-62ed338d87db.png)
+
+新增一個 test.txt 檔案，會在 Untracked files 列出
+![image](https://user-images.githubusercontent.com/40282726/128316719-dc59f0fe-d5b1-4f4e-bf45-d3b761bf53ae.png)
+
+### 2. git add
+使用 ``` git add 檔案 ``` ，我們將檔案或資料夾推到暫存區，若我們再用一次 ``` git status ``` 就會發現有提示一個新檔案(new file)
+![image](https://user-images.githubusercontent.com/40282726/128317174-5aa428b3-d079-411c-8c92-2bb57e567ef5.png)
+
+### 3. git reset
+假設剛剛的檔案反悔不想要放到暫存區， 操作``` git rest 檔案 ``` 即可
+![image](https://user-images.githubusercontent.com/40282726/128317486-6715663a-531a-4948-9579-12a09cd389c3.png)
+
+### 4. git commit
+接著就可以進行提交 commit， 操作``` git commit -m "這次提交想要傳達的訊息" ```
+為了讓每次的提交都知道在做什麼，記得訊息一定要寫！！
+![image](https://user-images.githubusercontent.com/40282726/128318681-8b86968a-1f00-4f96-b459-0925a4367103.png)
+通常我們訊息為了要分別，有一些原則可以參考，會將下列文字替換
+| 指令 | 說明 |
+| -------- | -------- |
+| feature   | 新增功能     | 
+| fix   | 修 bug     |
 
 ### Commit
 
