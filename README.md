@@ -37,7 +37,7 @@ This is a story related to machine learning and all data science skill.
 | Solution  | [02_S1_Pandas](https://github.com/erik1110/Data-Science/blob/master/02_Data_Preprocessing/02_S1_Pandas.ipynb)|
 | Reference | [整理numpy和pandas中 axis(軸)的概念](http://changtw-blog.logdown.com/posts/895468-python-numpy-axis-concept-organize-notes) | 
 |Reference|[Excel與Pandas之間的愛恨糾葛-好文分享1](http://bluewhale.cc/2017-04-06/use-python-for-data-analysis-like-excel-1.html)|
-|Reference|[Excel與Pandas之間的愛恨糾葛-好文分享2](https://kknews.cc/zh-tw/tech/y8jmrva.html)|
+|Reference|[Excel與Pandas之間的愛恨糾葛-好文分享2](http://bluewhale.cc/2017-04-14/use-python-for-data-analysis-like-excel-2.html)|
 |Reference|[Excel與Pandas之間的愛恨糾葛-好文分享3](http://bluewhale.cc/2017-04-21/use-python-for-data-analysis-like-excel-3.html)|
 |Reference|[Numpy & Pandas 簡介](https://mofanpy.com/tutorials/data-manipulation/np-pd/)|
 |Reference|[[Day03]Python的基本運算！（上）](https://ithelp.ithome.com.tw/articles/10192814)|
@@ -129,16 +129,12 @@ This is a story related to machine learning and all data science skill.
 ## Level 9 : Git Tutorial
 | Name | Link | 
 | -------- | -------- |
+| Learning Points | - Introduction <br> - Environment <br> - Git Workflow <br> - Start to Git <br> - Branch <br> - Tag <br> - GitHub |
 | Material | [09_M1_Git](https://github.com/erik1110/Data-Science/tree/master/09_Git_Tutorial)  |
 | Assignment | |
 | Reference| [Git介紹](https://mofanpy.com/tutorials/others/git/)|
 | Reference||
 
-### Introductuin
-### Branch
-### Basic Skills
-### Pull Request
-### Tag
 ## Level 10 : Model Deployment
 ## Level 11 : Model Monitoring
 ## Level 12 : Deep Learning
