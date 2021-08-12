@@ -55,6 +55,7 @@ This is a story related to machine learning and all data science skill.
 | Name | Link |
 | -------- | -------- |
 |Reference|[[Day02]Jupyter Notebook操作介紹！](https://ithelp.ithome.com.tw/articles/10192614)|
+|Reference|[Jupyter Notebook介紹及安裝說明](https://medium.com/python4u/jupyter-notebook%E5%AE%8C%E6%95%B4%E4%BB%8B%E7%B4%B9%E5%8F%8A%E5%AE%89%E8%A3%9D%E8%AA%AA%E6%98%8E-b8fcadba15f)|
 |Reference|[JupyterLab](https://experienceleague.adobe.com/docs/experience-platform/data-science-workspace/jupyterlab/overview.html?lang=zh-Hant)|
 |Reference|[Vscode](https://walker-a.com/archives/6242)|
 
