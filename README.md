@@ -76,30 +76,34 @@ This is a story related to machine learning and all data science skill.
 | Assignment | |
 | Reference||
 | Reference||
-### Object-oriented programming
-### Error & Exception
-### Decorator
+
 ## Level 7 : Model Prerequisite Knowledge
 ### Machine Learning Theory
-- [[Day24]什麼是機器學習Machine Learning？](https://ithelp.ithome.com.tw/articles/10196922)
-- [李宏毅教授的影片](https://www.youtube.com/watch?v=CXgbekl66jc&list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49&ab_channel=Hung-yiLee)
-  - Introduction of Machine Learning
-  - Regression-Case Study
-  - Regression-Demo
-  - What does the error come from?
-  - Gradient Descent
-  - Classification
-  - Logistic Regression
-### Model Building Workflow
-### Evaluating Models Performance
-### Data Preprocessing
+| Name | Link  |
+| -------- | -------- |
+| 李宏毅教授的影片 | [Introduction of Machine Learning](https://www.youtube.com/watch?v=CXgbekl66jc&list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49&ab_channel=Hung-yiLee)|
+| 李宏毅教授的影片 | [Regression-Case Study](https://www.youtube.com/watch?v=fegAeph9UaA&list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49&index=3&ab_channel=Hung-yiLee) | 
+| 李宏毅教授的影片 | [Regression-Demo](https://www.youtube.com/watch?v=1UqCjFQiiy0&list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49&index=4&ab_channel=Hung-yiLee) | 
+| 李宏毅教授的影片 | [What does the error come from?](https://www.youtube.com/watch?v=D_S6y0Jm6dQ&list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49&index=5&ab_channel=Hung-yiLee) | 
+| 李宏毅教授的影片 | [Gradient Descent](https://www.youtube.com/watch?v=yKKNr-QKz2Q&list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49&index=6&ab_channel=Hung-yiLee) | 
+| 李宏毅教授的影片 | [Classification](https://www.youtube.com/watch?v=fZAZUYEeIMg&list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49&index=9&ab_channel=Hung-yiLee) | 
+| 李宏毅教授的影片 | [Logistic Regression](https://www.youtube.com/watch?v=hSXFuypLukA&list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49&index=10&ab_channel=Hung-yiLee) | 
+
+### Machine Learning Materials
+| Name | Link  | Illustratuion |
+| -------- | -------- | -------- | 
+| Material | [07_M1_Model_Prerequisite_Knowledge](https://github.com/erik1110/Data-Science/blob/master/07_Model_Prerequisite_Knowledge/07_M1_Model_Prerequisite_Knowledge.ipynb)  | Model Building Workflow + Evaluating Models Performance | 
+| Material  |[07_M2_Data_Preprocessing](https://github.com/erik1110/Data-Science/blob/master/07_Model_Prerequisite_Knowledge/07_M2_Data_Preprocessing.ipynb)| Data Preprocessing with padnas and sklearn | 
+| Reference | [[Day24]什麼是機器學習Machine Learning？](https://ithelp.ithome.com.tw/articles/10196922) | |
+| Reference |    | |
+
 #### Data Engineering
 - Feature Scaling ![Image](https://github.com/erik1110/Machine-Learning/blob/master/Feature%20Scaling.png)
 - [Data Preprocessing Template](https://github.com/erik1110/Machine-Learning/blob/master/Data%20Preprocessing%20Template.ipynb)
 #### Dimensionality Reduction
 1. [Principal Component Analysis](https://github.com/erik1110/Data-Science/blob/master/07_Model_Prerequisite_Knowledge/Data%20Preprocessing%20Template.ipynb)
 2. [Kernel PCA](https://github.com/erik1110/Machine-Learning/blob/master/Dimensionality%20Reduction/Kernel%20PCA.ipynb)
-#### Train-Test Split
+
 ## Level 8 : Model Development
 ### Build Models
 - Regression
