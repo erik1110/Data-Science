@@ -90,7 +90,7 @@ This is a story related to machine learning and all data science skill.
 | 李宏毅教授的影片 | [Logistic Regression](https://www.youtube.com/watch?v=hSXFuypLukA&list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49&index=10&ab_channel=Hung-yiLee) | 
 
 ### Machine Learning Materials
-| Name | Link  | Illustratuion |
+| Name | Link  | Illustration |
 | -------- | -------- | -------- | 
 | Material | [07_M1_Model_Prerequisite_Knowledge](https://github.com/erik1110/Data-Science/blob/master/07_Model_Prerequisite_Knowledge/07_M1_Model_Prerequisite_Knowledge.ipynb)  | Model Building Workflow + Evaluating Models Performance | 
 | Material  |[07_M2_Data_Preprocessing](https://github.com/erik1110/Data-Science/blob/master/07_Model_Prerequisite_Knowledge/07_M2_Data_Preprocessing.ipynb)| Data Preprocessing with padnas and sklearn | 
