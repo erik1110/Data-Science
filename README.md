@@ -62,7 +62,7 @@ This is a story related to machine learning and all data science skill.
 ## Level 5 : Database Related
 | Name | Link | 
 | -------- | -------- |
-| Material | [05_M1_Postgres](https://github.com/erik1110/Data-Science/blob/master/05_Database_Related/05_M1_Postgres.ipynb)  | 
+| Material | [05_M2_Postgres_and_psycopg2](https://github.com/erik1110/Data-Science/blob/master/05_Database_Related/05_M2_Postgres_and_psycopg2.ipynb)  | 
 | Assignment | |
 | Reference||
 | Reference||
