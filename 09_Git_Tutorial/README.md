@@ -23,6 +23,7 @@
 | mkdir   | 建立一個資料夾 |   ``` mkdir 資料夾名稱 ```     |
 | cp   | 複製檔案或資料夾 | -r 代表是資料夾操作(可不加)  ``` cp -r 原檔案或資料夾路徑 新檔案或資料夾路徑```     |
 | rm   | 刪除檔案或資料夾 | -r 代表是資料夾操作(可不加)  ``` rm -r 檔案或資料夾路徑```     |
+| mv   | 移動或重新命名 | - 將檔案由 oldfile.txt 更名為 newfile.txt，所在目錄不變： ``` mv ./oldfile.txt ./newfile.txt ```  <br>   - 將檔案 /dir1/filename.txt 移動到 /dir2/ 目錄下，檔案名稱不變：``` mv /dir1/filename.txt /dir2/```     |
 | pwd   | 顯示目前路徑 | ``` pwd ```     |
 | crtl+c   | 強制停止目前指令執行 |   |
 
