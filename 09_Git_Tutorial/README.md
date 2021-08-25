@@ -15,18 +15,31 @@
 由於 Git 指令是打在終端機，因此有必要認識一下基本的終端機指令。
 以下指令在 MacOs 與 Linux 通用
 | 指令 | 說明 | 範例 |
-| -------- | -------- | -------- |
-| cd   | 切換目錄     |   ``` cd 目錄 ```     |
-| cd   | 切換上一層     |   ``` cd .. ```     |
+| -------- | -------- | -------- | 
+| cd   | change directory 切換目錄     |   ``` cd 目錄 ```     |
+| cd   | change directory 切換上一層     |   ``` cd .. ```     |
 | tab   | 系統提示該指令  |   (需搭配其他指令，例如 cd 搭配 tab 可以直接看到可以切換目錄)  ``` cd (按tab) ```    |
-| ls   | 列出目錄有的檔案 |  -l 顯示完成檔案權限(可不加) -a 顯示.開頭的檔案(可不加) ``` ls -al ```     |
-| mkdir   | 建立一個資料夾 |   ``` mkdir 資料夾名稱 ```     |
-| cp   | 複製檔案或資料夾 | -r 代表是資料夾操作(可不加)  ``` cp -r 原檔案或資料夾路徑 新檔案或資料夾路徑```     |
-| rm   | 刪除檔案或資料夾 | -r 代表是資料夾操作(可不加)  ``` rm -r 檔案或資料夾路徑```     |
-| mv   | 移動或重新命名 | - 將檔案由 oldfile.txt 更名為 newfile.txt，所在目錄不變： ``` mv ./oldfile.txt ./newfile.txt ```  <br>   - 將檔案 ./dir1/filename.txt 移動到 ./dir2/ 目錄下，檔案名稱不變：``` mv ./dir1/filename.txt ./dir2/```     |
-| pwd   | 顯示目前路徑 | ``` pwd ```     |
+| ls   | list 列出目錄有的檔案 |  -l 顯示完成檔案權限(可不加) -a 顯示.開頭的檔案(可不加) ``` ls -al ```     |
+| mkdir   | make directory建立一個資料夾 |   ``` mkdir 資料夾名稱 ```     |
+| cp   | copy 複製檔案或資料夾 | -r 代表是資料夾操作(可不加)  ``` cp -r 原檔案或資料夾路徑 新檔案或資料夾路徑```     |
+| rm   | remove 刪除檔案或資料夾 | -r 代表是資料夾操作(可不加)  ``` rm -r 檔案或資料夾路徑```     |
+| mv   | move 移動或重新命名 | - 將檔案由 oldfile.txt 更名為 newfile.txt，所在目錄不變： ``` mv ./oldfile.txt ./newfile.txt ```  <br>   - 將檔案 ./dir1/filename.txt 移動到 ./dir2/ 目錄下，檔案名稱不變：``` mv ./dir1/filename.txt ./dir2/```     |
+| pwd   | print working directory 顯示目前路徑 | ``` pwd ```     |
 | crtl+c   | 強制停止目前指令執行 |   |
+| cat | concatenate 由第一行開始顯示檔案內容 | ``` cat 檔案 ``` | 
+| tac | 由最後一行開始顯示檔案內容 | ``` tac 檔案 ``` | 
+| more | 一頁一頁顯示檔案內容 | ``` more 檔案 ``` | 
+| less | 與more相似，此指令可以往前翻頁 | ``` less 檔案 ``` | 
 
+#### 絕對路徑與相對路徑
+- 絕對路徑：/usr/lib 
+- 相對路徑： 若系統目前在 /usr/lib 這個目錄，可以用 cd ../bin 切換到 /usr/bin
+#### 目錄相關
+- . 代表此層的目錄
+- .. 代表上層的目錄
+- ~ 代表自己的家目錄
+#### 更詳細資訊
+[鳥哥的 Linux 私房菜-第六章、Linux 檔案與目錄管理](http://linux.vbird.org/linux_basic/0220filemanager.php)
 ### 設定 Git Config
 設定帳號名稱和信件
 ```
