@@ -157,18 +157,23 @@ https://nvie.com/posts/a-successful-git-branching-model/
 ``` git branch <branch name>``` 
 ``` git checkout -b <branch name>``` 
 
+### 刪除分支
+``` git branch -d <branch name>``` 
+
 ### 切換分支
 ``` git checkout <branch name>``` 
+### 合併分支
 
 ### 遠端協作
 - 拉遠端分支
   ``` git checkout origin/develop -b develop ``` 
 - FETCH
   ``` git fetch ```
-  ![image](https://user-images.githubusercontent.com/40282726/131029677-a433dba4-44b8-4c40-beec-7e9c96454e20.png)
-  利用該指令可以將遠端的分支更新到本地端，但可能會發現
-- 
-### 
+  ![image](https://user-images.githubusercontent.com/40282726/131031256-5647b42b-af4c-448d-be79-90ba45cf4a16.png)
+  基本上對本地端的 main 來說 origin/main 也是一種分支，結果在 fetch 之後 main 居然落後 origin/main，這時候就可以利用合併分支
+  
+   
+- PULL
 
 ### 衝突
 
