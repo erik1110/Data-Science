@@ -133,6 +133,13 @@ git config --list
 ![image](https://user-images.githubusercontent.com/40282726/128320828-fcad674d-d7fe-4d73-9edc-da18882ce166.png)
 
 ## 5. 分支 (Branch)
+### 分支說明
+
+### checkout 
+
+### 合併分支
+
+### 衝突
 
 ## 6. 標籤 (Tag)
 ## 7. 其他操作
