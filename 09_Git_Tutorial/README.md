@@ -140,7 +140,7 @@ https://nvie.com/posts/a-successful-git-branching-model/
 用比較簡單的流程跟大家說明
 ![image](https://user-images.githubusercontent.com/40282726/131025287-dfe84993-a502-4cf6-892b-525353f7c067.png)
 
-- Main: 穩定、可以上線的版本，而且這個版本只能從別的分支合併過來，開發者不能直接對這個分支進行 commit
+- Main: 穩定、可以上線的版本，而且這個版本只能從別的分支合併過來，基本上開發者不能直接對這個分支進行 commit
 - develop: 這個分支紀錄所有開發者的基礎分支，所有的 feature 分支必須從此分支切出，而 feature 分支完成後也都會合併回來此分支
 - feature: 新增功能的意思，通常我們會從 develop 分支切出來，並加上此次要新增的功能。 feature/名稱，名稱通常可以取有意義的名稱，讓專案或其他成員可以看懂你這次要幹麼。
 ### 查看分支
@@ -152,32 +152,45 @@ https://nvie.com/posts/a-successful-git-branching-model/
 - remote/origin/develop -> 遠端分支 develop
 - remote/origin/main -> 遠端分支 main
 - origin 是遠端儲存庫的別名，可以 ``` git remote -v ``` 查看遠端儲存庫的路徑
-- 
 ### 新增分支
 ``` git branch <branch name>``` 
 ``` git checkout -b <branch name>``` 
-
 ### 刪除分支
 ``` git branch -d <branch name>``` 
 
 ### 切換分支
 ``` git checkout <branch name>``` 
 ### 合併分支
-
+``` git merge <branch name>``` 
+更詳細的說明：https://gitbook.tw/chapters/branch/merge-branch.html
 ### 遠端協作
 - 拉遠端分支
   ``` git checkout origin/develop -b develop ``` 
 - FETCH
-  ``` git fetch ```
+  可以更新遠端儲存庫的資料在本地端 ``` git fetch ```
   ![image](https://user-images.githubusercontent.com/40282726/131031256-5647b42b-af4c-448d-be79-90ba45cf4a16.png)
-  基本上對本地端的 main 來說 origin/main 也是一種分支，結果在 fetch 之後 main 居然落後 origin/main，這時候就可以利用合併分支
-  
-   
+  基本上對本地端的 main 來說 origin/main 也是一種分支，結果在 fetch 之後 main 居然落後 origin/main，這時候就可以利用合併分支``` git merge origin/master``` 
+  ![image](https://user-images.githubusercontent.com/40282726/131031638-55a5d3fa-b224-4329-8086-b9776d949f7c.png)
 - PULL
-
+  - ``` git pull ```
+  這個指令也是更新遠端儲存庫的資料在本地端，而這個指令的功用是 git pull = git fetch + git merge ，會自動幫你做完 merge 快轉模式（Fast Forward）的步驟
+  - ``` git pull --rebase``` 加上此參數之後會自動做 rebase
+    多人開發的時候，大家會在自己分支commit並在遠端協作，你拉回本地端的時候也會因為合併而產生一個額外的commit，如果你不想要這個多餘的commit可以加上此參數
 ### 衝突
 
 ## 6. 標籤 (Tag)
+### 列出標籤
+``` git tag```
+### 建立標籤
+```git tag -a v1.5 -m "my version 1.5 and it add some ..." ```
+### 查看標籤資訊
+``` git show v1.5 ```
+### 分享標籤
+- git push 指令預設不會將標籤傳送到遠端伺服器，你必須要用以下指令才能推送
+  ```git push origin v1.5 ```
+- 傳送多個標籤
+  ```git push origin --tags ```
+- [參考資訊](https://git-scm.com/book/zh-tw/v2/Git-%E5%9F%BA%E7%A4%8E-%E6%A8%99%E7%B1%A4)
 ## 7. 其他操作
 ### (1) 刪除檔案
 你可以直接砍檔案 ``` rm 檔案```
