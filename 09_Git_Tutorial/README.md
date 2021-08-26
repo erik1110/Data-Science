@@ -110,6 +110,19 @@ git config --list
 ## 5. 分支 (Branch)
 
 ## 6. 標籤 (Tag)
+## 7. 其他操作
+### (1) 刪除檔案
+你可以直接砍檔案
+``` rm 檔案```
+把特！你會看到這個
+![螢幕快照 2021-08-26 下午3 39 20](https://user-images.githubusercontent.com/40282726/130921677-7e64af90-f336-46ed-9dc4-fa95673c0949.png)
+因此你要繼續做 git add 和 commit 的動作
+484很麻煩！！所以貼心的 git 有這個功能 ``` git rm 檔案``` 可以一鍵呵成
+![螢幕快照 2021-08-26 下午3 42 43](https://user-images.githubusercontent.com/40282726/130922134-de924e3a-df13-4ba7-84cf-3d7bcaeee24b.png)
+### （2）更換檔名
+跟剛剛一樣，你可以使用 mv 指令換檔名然後再 add commit 
+但 git 一樣有提供一鍵呵成
+![螢幕快照 2021-08-26 下午3 48 14](https://user-images.githubusercontent.com/40282726/130923030-cfd4f29c-c89e-4fae-99f5-c78f12d182a5.png)
 
-## 7. 遠端協作 (GitHub)
+## 8. 遠端協作 (GitHub)
 
