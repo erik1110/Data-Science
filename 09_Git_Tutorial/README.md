@@ -122,6 +122,9 @@ git config --list
     ![螢幕快照 2021-08-26 下午4 21 57](https://user-images.githubusercontent.com/40282726/130927984-a2a220a5-5f74-4ce2-9620-1637ac654fc1.png)
   - 會再進人第二次 vim 編輯器
     再輸入一次
+ 
+看起來只有簡單改訊息，但大家可以看 commit id 都變了，實際上是修改一個 commit 
+基本上不建議大家用這招，因為把過去訊息改掉可能會造成錯亂呀！
   
 
 ### (5) git push
