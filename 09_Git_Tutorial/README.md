@@ -102,6 +102,28 @@ git config --list
 | style   | 格式   |
 | revert   | 回上一個版本   |
 
+#### 更改訊息
+- 改最後一次
+  利用 ``` --amend ``` 來修改 git commit 的訊息
+  ``` git commit --amend -m "Hello World!" ```
+- 改之前
+  利用 ``` git rebase commit_id號碼(6碼即可) ``` 來修改 git commit 的訊息
+  - 先看 git log 知道 commit id
+  ![螢幕快照 2021-08-26 下午4 01 54](https://user-images.githubusercontent.com/40282726/130924968-7ab9ba97-d494-412f-b6e4-5c9a83f2c7e5.png)
+  - 輸入 git rebase
+  - 進入 vim 編輯器進行修改
+    會顯示從現在到這個 commit id 的所有 commit 紀錄
+    將 pick 改成 reword 或是 r ，並修改後面的訊息
+    ``` 
+    按 i 進入編輯模式 
+    按 esc 輸入 :wq! 存擋離開
+    ``` 
+    ![螢幕快照 2021-08-26 下午4 21 03](https://user-images.githubusercontent.com/40282726/130927838-69bc49d3-a213-4896-b2a8-ff1fee90df3b.png)
+    ![螢幕快照 2021-08-26 下午4 21 57](https://user-images.githubusercontent.com/40282726/130927984-a2a220a5-5f74-4ce2-9620-1637ac654fc1.png)
+  - 會再進人第二次 vim 編輯器
+    再輸入一次
+  
+
 ### (5) git push
 接著就可以將本地端程式碼推到遠端啦！操作 ``` git push ```
 
@@ -112,15 +134,20 @@ git config --list
 ## 6. 標籤 (Tag)
 ## 7. 其他操作
 ### (1) 刪除檔案
-你可以直接砍檔案
-``` rm 檔案```
+你可以直接砍檔案 ``` rm 檔案```
+
 把特！你會看到這個
 ![螢幕快照 2021-08-26 下午3 39 20](https://user-images.githubusercontent.com/40282726/130921677-7e64af90-f336-46ed-9dc4-fa95673c0949.png)
+
 因此你要繼續做 git add 和 commit 的動作
+
 484很麻煩！！所以貼心的 git 有這個功能 ``` git rm 檔案``` 可以一鍵呵成
+
 ![螢幕快照 2021-08-26 下午3 42 43](https://user-images.githubusercontent.com/40282726/130922134-de924e3a-df13-4ba7-84cf-3d7bcaeee24b.png)
+
 ### （2）更換檔名
 跟剛剛一樣，你可以使用 mv 指令換檔名然後再 add commit 
+
 但 git 一樣有提供一鍵呵成
 ![螢幕快照 2021-08-26 下午3 48 14](https://user-images.githubusercontent.com/40282726/130923030-cfd4f29c-c89e-4fae-99f5-c78f12d182a5.png)
 
