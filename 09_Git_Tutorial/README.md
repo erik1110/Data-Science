@@ -133,11 +133,42 @@ git config --list
 ![image](https://user-images.githubusercontent.com/40282726/128320828-fcad674d-d7fe-4d73-9edc-da18882ce166.png)
 
 ## 5. 分支 (Branch)
-### 分支說明
+### Git Flow
+有人制定了規則讓大家一起遵守
+https://nvie.com/posts/a-successful-git-branching-model/
 
-### checkout 
+用比較簡單的流程跟大家說明
+![image](https://user-images.githubusercontent.com/40282726/131025287-dfe84993-a502-4cf6-892b-525353f7c067.png)
 
-### 合併分支
+- Main: 穩定、可以上線的版本，而且這個版本只能從別的分支合併過來，開發者不能直接對這個分支進行 commit
+- develop: 這個分支紀錄所有開發者的基礎分支，所有的 feature 分支必須從此分支切出，而 feature 分支完成後也都會合併回來此分支
+- feature: 新增功能的意思，通常我們會從 develop 分支切出來，並加上此次要新增的功能。 feature/名稱，名稱通常可以取有意義的名稱，讓專案或其他成員可以看懂你這次要幹麼。
+### 查看分支
+``` git branch -a``` 
+![image](https://user-images.githubusercontent.com/40282726/131027001-e1297835-d323-4b6a-9e5d-ba5423e0f5f6.png)
+- 星號代表你現在在哪一個分支
+- 按 Q 可以離開
+- remote/origin/HEAD -> origin/main 本地端追蹤分支
+- remote/origin/develop -> 遠端分支 develop
+- remote/origin/main -> 遠端分支 main
+- origin 是遠端儲存庫的別名，可以 ``` git remote -v ``` 查看遠端儲存庫的路徑
+- 
+### 新增分支
+``` git branch <branch name>``` 
+``` git checkout -b <branch name>``` 
+
+### 切換分支
+``` git checkout <branch name>``` 
+
+### 遠端協作
+- 拉遠端分支
+  ``` git checkout origin/develop -b develop ``` 
+- FETCH
+  ``` git fetch ```
+  ![image](https://user-images.githubusercontent.com/40282726/131029677-a433dba4-44b8-4c40-beec-7e9c96454e20.png)
+  利用該指令可以將遠端的分支更新到本地端，但可能會發現
+- 
+### 
 
 ### 衝突
 
@@ -161,5 +192,5 @@ git config --list
 但 git 一樣有提供一鍵呵成
 ![螢幕快照 2021-08-26 下午3 48 14](https://user-images.githubusercontent.com/40282726/130923030-cfd4f29c-c89e-4fae-99f5-c78f12d182a5.png)
 
-## 8. 遠端協作 (GitHub)
+
 
