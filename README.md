@@ -106,7 +106,15 @@ This is a story related to machine learning and all data science skill.
 2. [Kernel PCA](https://github.com/erik1110/Machine-Learning/blob/master/Dimensionality%20Reduction/Kernel%20PCA.ipynb)
 
 ## Level 8 : Model Development
-### Build Models
+### Models Related
+| Name | Link  | Illustration |
+| -------- | -------- | -------- | 
+| Material | [08_M0_Background_Knowledge](https://github.com/erik1110/Data-Science/blob/master/08_Model_Development/README.md)  | 機器學習演算法＋過度擬合＋交叉驗證 | 
+| Material  |[08_M1_KNN&K-Means](https://github.com/erik1110/Data-Science/blob/master/08_Model_Development/08_M1_KNN%26K-Means.ipynb)| KNN+K-Means | 
+| Reference |  | |
+| Reference |  | |
+
+### Demo
 - Regression
   [Simple Regression](https://github.com/erik1110/Machine-Learning/blob/master/Regression/Simple%20Regression.ipynb)
 - Classification
@@ -127,11 +135,7 @@ This is a story related to machine learning and all data science skill.
   - 6. eXtreme Gradient Boosting(XGBoost)
   - 7. LightGBM
     [Tuturial](https://zhuanlan.zhihu.com/p/25308051)
-### Model Selection 
-- 1. Cross Validation
-  - [[Day29]機器學習：交叉驗證！](https://ithelp.ithome.com.tw/articles/10197461)
-- 2. GridSearchCV
-  - [LightGBM](https://github.com/erik1110/Machine-Learning/blob/master/Model_Selection/GridSearchCV/LightGBM%20with%20GridSearchCV.ipynb)
+
 ## Level 9 : Git Tutorial
 | Name | Link | 
 | -------- | -------- |
