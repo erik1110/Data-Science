@@ -111,8 +111,13 @@ This is a story related to machine learning and all data science skill.
 | -------- | -------- | -------- | 
 | Material | [08_M0_Background_Knowledge](https://github.com/erik1110/Data-Science/blob/master/08_Model_Development/README.md)  | 機器學習演算法＋過度擬合＋交叉驗證 | 
 | Material  |[08_M1_KNN&K-Means](https://github.com/erik1110/Data-Science/blob/master/08_Model_Development/08_M1_KNN%26K-Means.ipynb)| KNN+K-Means | 
-| Reference |  | |
-| Reference |  | |
+| Material  |[08_M2_Regression](https://github.com/erik1110/Data-Science/blob/master/08_Model_Development/08_M2_Regression.ipynb)| Linear + Logistic Regression | 
+| Material  |[08_M3_SVM](https://github.com/erik1110/Data-Science/blob/master/08_Model_Development/08_M3_SVM.ipynb)| SVM | 
+| Material  |[08_M4_Decision_Tree](https://github.com/erik1110/Data-Science/blob/master/08_Model_Development/08_M4_Decision_Tree.ipynb)| Decision Tree | 
+| Material  |[08_M5_Random_Forest](https://github.com/erik1110/Data-Science/blob/master/08_Model_Development/08_M5_Random_Forest.ipynb)| Random Forest | 
+| Material  |  |  | 
+| Material  |  |  |
+| Reference |  |  |
 
 ### Demo
 - Regression
