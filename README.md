@@ -54,6 +54,7 @@ This is a story related to machine learning and all data science skill.
 |Reference|[Jupyter Notebook介紹及安裝說明](https://medium.com/python4u/jupyter-notebook%E5%AE%8C%E6%95%B4%E4%BB%8B%E7%B4%B9%E5%8F%8A%E5%AE%89%E8%A3%9D%E8%AA%AA%E6%98%8E-b8fcadba15f)|
 |Reference|[JupyterLab](https://experienceleague.adobe.com/docs/experience-platform/data-science-workspace/jupyterlab/overview.html?lang=zh-Hant)|
 |Reference|[Vscode](https://walker-a.com/archives/6242)|
+|Reference|[Hackmd 常用 LaTeX 數學符號指令](https://hackmd.io/@CynthiaChuang/Basic-LaTeX-Commands)|
 
 ## Level 5 : Database Related
 | Name | Link | 
@@ -95,7 +96,6 @@ This is a story related to machine learning and all data science skill.
 | Reference |    | |
 
 #### Data Engineering
-- Feature Scaling ![Image](https://github.com/erik1110/Machine-Learning/blob/master/Feature%20Scaling.png)
 - [Data Preprocessing Template](https://github.com/erik1110/Machine-Learning/blob/master/Data%20Preprocessing%20Template.ipynb)
 #### Dimensionality Reduction
 1. [Principal Component Analysis](https://github.com/erik1110/Data-Science/blob/master/07_Model_Prerequisite_Knowledge/Data%20Preprocessing%20Template.ipynb)
