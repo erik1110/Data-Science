@@ -115,28 +115,6 @@ This is a story related to machine learning and all data science skill.
 | Material  |  |  |
 | Reference |  |  |
 
-### Demo
-- Regression
-  [Simple Regression](https://github.com/erik1110/Machine-Learning/blob/master/Regression/Simple%20Regression.ipynb)
-- Classification
-  - 1. [Logistic Regression](https://github.com/erik1110/Data-Science/blob/master/08_Model_Development/Models/Logistic_Regression/logistic_regression.ipynb)
-  - 2. [Support Vector Machine](https://github.com/erik1110/Data-Science/blob/master/SVM/SVM.ipynb)
-  - 3. Native Bayes
-  - 4. [Decision Tree](https://github.com/erik1110/Data-Science/blob/master/Decision%20Tree/decision_tree.ipynb)
-  - 5. [Random Forest](https://github.com/erik1110/Data-Science/blob/master/Random%20Forest/Random%20Forest.ipynb) 
-  - 6. Evaluating Classification Models Performance
-- Clustering
-  K-Means Clustering
-- Ensemble
-  - 1. Blending
-  - 2. Bagging 
-  - 3. Bootstrap
-  - 4. Adaptive Boosting Algorithm(AdaBoost)
-  - 5. Gradient Boosting Decision Tree(GBDT)
-  - 6. eXtreme Gradient Boosting(XGBoost)
-  - 7. LightGBM
-    [Tuturial](https://zhuanlan.zhihu.com/p/25308051)
-
 ## Level 9 : Git Tutorial
 | Name | Link | 
 | -------- | -------- |
