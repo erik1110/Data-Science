@@ -40,16 +40,12 @@ This is a story related to machine learning and all data science skill.
 |Reference|[Excel與Pandas之間的愛恨糾葛-好文分享2](http://bluewhale.cc/2017-04-14/use-python-for-data-analysis-like-excel-2.html)|
 |Reference|[Excel與Pandas之間的愛恨糾葛-好文分享3](http://bluewhale.cc/2017-04-21/use-python-for-data-analysis-like-excel-3.html)|
 |Reference|[Numpy & Pandas 簡介](https://mofanpy.com/tutorials/data-manipulation/np-pd/)|
-|Reference|[[Day03]Python的基本運算！（上）](https://ithelp.ithome.com.tw/articles/10192814)|
-|Reference|[[Day04]Python的基本運算！（下）](https://ithelp.ithome.com.tw/articles/10193001)|
 
 ## Level 3 : Data Visualizing
 | Name | Link | 
 | -------- | -------- |
 | Assignment | [03_H1_Visualizing](https://github.com/erik1110/Data-Science/blob/master/03_Data_Visualizing/03_H1_Visualizing.ipynb)  | 
 | Solution | [03_H1_Visualizing](https://github.com/erik1110/Data-Science/blob/master/03_Data_Visualizing/03_S1_Visualizing.ipynb)|
-|Reference|[[Day19]Matplotlib讓資料視覺化！](https://ithelp.ithome.com.tw/articles/10196239)|
-|Reference|[[Day20]Matplotlib資料視覺化進階！](https://ithelp.ithome.com.tw/articles/10196410)|
 
 ## Level 4 : Introduction of Tools
 | Name | Link |
@@ -111,8 +107,13 @@ This is a story related to machine learning and all data science skill.
 | -------- | -------- | -------- | 
 | Material | [08_M0_Background_Knowledge](https://github.com/erik1110/Data-Science/blob/master/08_Model_Development/README.md)  | 機器學習演算法＋過度擬合＋交叉驗證 | 
 | Material  |[08_M1_KNN&K-Means](https://github.com/erik1110/Data-Science/blob/master/08_Model_Development/08_M1_KNN%26K-Means.ipynb)| KNN+K-Means | 
-| Reference |  | |
-| Reference |  | |
+| Material  |[08_M2_Regression](https://github.com/erik1110/Data-Science/blob/master/08_Model_Development/08_M2_Regression.ipynb)| Linear + Logistic Regression | 
+| Material  |[08_M3_SVM](https://github.com/erik1110/Data-Science/blob/master/08_Model_Development/08_M3_SVM.ipynb)| SVM | 
+| Material  |[08_M4_Decision_Tree](https://github.com/erik1110/Data-Science/blob/master/08_Model_Development/08_M4_Decision_Tree.ipynb)| Decision Tree | 
+| Material  |[08_M5_Random_Forest](https://github.com/erik1110/Data-Science/blob/master/08_Model_Development/08_M5_Random_Forest.ipynb)| Random Forest | 
+| Material  |  |  | 
+| Material  |  |  |
+| Reference |  |  |
 
 ### Demo
 - Regression
