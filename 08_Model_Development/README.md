@@ -80,5 +80,6 @@
 
 ### 參考資料
 - [Blending and Bagging :: Uniform Blending @ Machine Learning Techniques (機器學習技法)](https://www.youtube.com/watch?v=DAFkKJYTMW4&list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2&index=27&ab_channel=Hsuan-TienLin)
+- [图解Blending&Stacking](https://blog.csdn.net/sunnyxidian/article/details/89279875?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-6.no_search_link&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-6.no_search_link)
 - [数据挖掘竞赛利器-Stacking和Blending方式](https://blog.csdn.net/maqunfi/article/details/82220115?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-1.no_search_link&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-1.no_search_link)
 - [[Day25] 模型選擇-集成方法](https://ithelp.ithome.com.tw/articles/10228200?sc=hot)
