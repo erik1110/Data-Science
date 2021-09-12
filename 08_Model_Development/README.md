@@ -40,31 +40,46 @@
 
 依照處理方式的不同，又可以分為 Bagging、Boosting、Stacking。
 
-資料面：用不同的訓練資料、同一種模型，進行多次的訓練綜合的預測結果
-特徵面：用同樣的資料、不同的模型，綜合的預測結果
+- 資料面：用不同的訓練資料、同一種模型，進行多次的訓練綜合的預測結果
+- 特徵面：用同樣的資料、不同的模型，綜合的預測結果
 
 | 面向  | 方法 | 例子 |
 | -------- | -------- | -------- |
 | 資料面  | Bagging     | Random Forest     |
-| 資料面  | Boosting     | XGBoost    |
-| 特徵面  | Blending     | Voting    |
+| 資料面  | Boosting     | XGBoost、LightGBM、GBDT、AdaBoost、CatBoost    |
+| 特徵面  | Blending     |   Voting  |
 | 特徵面  | Stacking     |     |
 
-
 ### Bagging
-Bootstrap aggregating，把訓練資料重新採樣之後，就可以產生不同組的訓練資料
+裝袋法(Bootstrap Aggregating, Bagging)，把訓練資料重新採樣之後，就可以產生不同組的訓練資料。常見的例子有隨機森林。
+
+少數服從多數，透過不同的子集合進行不同子模型訓練，最終由子模型進行投票。
+
+- 每次將資料抽後放回
 - 建立多個相互獨立的模型
 - 最後進行平均或是依照權重進行多數決投票
 
-常見的例子有隨機森林
-
 ### Boosting
-根據預測錯誤的資料給予不同的權限，讓模型再學習一次。
+目標是為了要避免學習錯誤，讓自己往學正確的東西。根據預測錯誤的資料調整其權重值，讓模型下次能學習比較好。
+
+迭代訓練某個模型，根據 i-1 輪預測錯誤得到的情況來修正第 i 輪訓練樣本的權重。
 
 舉例來說，老師會在之前學生錯過的題目增加配分的比重，若再次寫錯代表沒有學好。
 
-常見的例子有 XGBoost
-
 ### Blending
 
+混合不同種的模型，進行投票(權重可以自己定)
+
+![image](https://user-images.githubusercontent.com/40282726/132982951-d7a0a599-cf1a-4e77-bf23-c102b2fcdd8b.png)
+
 ### Stacking
+
+將預測的結果當作特徵，可以當作另一個模型的輸入值，因此又可以訓練一個新模型，如此重複地手段可以稱之為推疊(Stacking)
+
+![image](https://user-images.githubusercontent.com/40282726/132977708-4fde26f0-f902-4a81-bc37-16bbf0245404.png)
+
+### 參考資料
+- [Blending and Bagging :: Uniform Blending @ Machine Learning Techniques (機器學習技法)](https://www.youtube.com/watch?v=DAFkKJYTMW4&list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2&index=27&ab_channel=Hsuan-TienLin)
+- [图解Blending&Stacking](https://blog.csdn.net/sunnyxidian/article/details/89279875?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-6.no_search_link&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-6.no_search_link)
+- [数据挖掘竞赛利器-Stacking和Blending方式](https://blog.csdn.net/maqunfi/article/details/82220115?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-1.no_search_link&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-1.no_search_link)
+- [[Day25] 模型選擇-集成方法](https://ithelp.ithome.com.tw/articles/10228200?sc=hot)
