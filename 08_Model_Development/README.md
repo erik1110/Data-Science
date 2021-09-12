@@ -67,12 +67,15 @@
 舉例來說，老師會在之前學生錯過的題目增加配分的比重，若再次寫錯代表沒有學好。
 
 ### Blending
+
 混合不同種的模型，進行投票(權重可以自己定)
+
 ![image](https://user-images.githubusercontent.com/40282726/132982951-d7a0a599-cf1a-4e77-bf23-c102b2fcdd8b.png)
 
 ### Stacking
 
 將預測的結果當作特徵，可以當作另一個模型的輸入值，因此又可以訓練一個新模型，如此重複地手段可以稱之為推疊(Stacking)
+
 ![image](https://user-images.githubusercontent.com/40282726/132977708-4fde26f0-f902-4a81-bc37-16bbf0245404.png)
 
 ### 參考資料
