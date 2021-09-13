@@ -54,6 +54,7 @@ This is a story related to machine learning and all data science skill.
 |Reference|[Jupyter Notebook介紹及安裝說明](https://medium.com/python4u/jupyter-notebook%E5%AE%8C%E6%95%B4%E4%BB%8B%E7%B4%B9%E5%8F%8A%E5%AE%89%E8%A3%9D%E8%AA%AA%E6%98%8E-b8fcadba15f)|
 |Reference|[JupyterLab](https://experienceleague.adobe.com/docs/experience-platform/data-science-workspace/jupyterlab/overview.html?lang=zh-Hant)|
 |Reference|[Vscode](https://walker-a.com/archives/6242)|
+|Reference|[Hackmd 常用 LaTeX 數學符號指令](https://hackmd.io/@CynthiaChuang/Basic-LaTeX-Commands)|
 
 ## Level 5 : Database Related
 | Name | Link | 
@@ -95,7 +96,6 @@ This is a story related to machine learning and all data science skill.
 | Reference |    | |
 
 #### Data Engineering
-- Feature Scaling ![Image](https://github.com/erik1110/Machine-Learning/blob/master/Feature%20Scaling.png)
 - [Data Preprocessing Template](https://github.com/erik1110/Machine-Learning/blob/master/Data%20Preprocessing%20Template.ipynb)
 #### Dimensionality Reduction
 1. [Principal Component Analysis](https://github.com/erik1110/Data-Science/blob/master/07_Model_Prerequisite_Knowledge/Data%20Preprocessing%20Template.ipynb)
@@ -105,7 +105,7 @@ This is a story related to machine learning and all data science skill.
 ### Models Related
 | Name | Link  | Illustration |
 | -------- | -------- | -------- | 
-| Material | [08_M0_Background_Knowledge](https://github.com/erik1110/Data-Science/blob/master/08_Model_Development/README.md)  | 機器學習演算法＋過度擬合＋交叉驗證 | 
+| Material | [08_M0_Background_Knowledge](https://github.com/erik1110/Data-Science/blob/master/08_Model_Development/README.md)  | 機器學習演算法＋過度擬合＋交叉驗證+集成式學習 | 
 | Material  |[08_M1_KNN&K-Means](https://github.com/erik1110/Data-Science/blob/master/08_Model_Development/08_M1_KNN%26K-Means.ipynb)| KNN+K-Means | 
 | Material  |[08_M2_Regression](https://github.com/erik1110/Data-Science/blob/master/08_Model_Development/08_M2_Regression.ipynb)| Linear + Logistic Regression | 
 | Material  |[08_M3_SVM](https://github.com/erik1110/Data-Science/blob/master/08_Model_Development/08_M3_SVM.ipynb)| SVM | 
@@ -114,28 +114,6 @@ This is a story related to machine learning and all data science skill.
 | Material  |  |  | 
 | Material  |  |  |
 | Reference |  |  |
-
-### Demo
-- Regression
-  [Simple Regression](https://github.com/erik1110/Machine-Learning/blob/master/Regression/Simple%20Regression.ipynb)
-- Classification
-  - 1. [Logistic Regression](https://github.com/erik1110/Data-Science/blob/master/08_Model_Development/Models/Logistic_Regression/logistic_regression.ipynb)
-  - 2. [Support Vector Machine](https://github.com/erik1110/Data-Science/blob/master/SVM/SVM.ipynb)
-  - 3. Native Bayes
-  - 4. [Decision Tree](https://github.com/erik1110/Data-Science/blob/master/Decision%20Tree/decision_tree.ipynb)
-  - 5. [Random Forest](https://github.com/erik1110/Data-Science/blob/master/Random%20Forest/Random%20Forest.ipynb) 
-  - 6. Evaluating Classification Models Performance
-- Clustering
-  K-Means Clustering
-- Ensemble
-  - 1. Blending
-  - 2. Bagging 
-  - 3. Bootstrap
-  - 4. Adaptive Boosting Algorithm(AdaBoost)
-  - 5. Gradient Boosting Decision Tree(GBDT)
-  - 6. eXtreme Gradient Boosting(XGBoost)
-  - 7. LightGBM
-    [Tuturial](https://zhuanlan.zhihu.com/p/25308051)
 
 ## Level 9 : Git Tutorial
 | Name | Link | 
