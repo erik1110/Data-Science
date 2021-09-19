@@ -111,8 +111,10 @@ This is a story related to machine learning and all data science skill.
 | Material  |[08_M3_SVM](https://github.com/erik1110/Data-Science/blob/master/08_Model_Development/08_M3_SVM.ipynb)| SVM | 
 | Material  |[08_M4_Decision_Tree](https://github.com/erik1110/Data-Science/blob/master/08_Model_Development/08_M4_Decision_Tree.ipynb)| Decision Tree | 
 | Material  |[08_M5_Random_Forest](https://github.com/erik1110/Data-Science/blob/master/08_Model_Development/08_M5_Random_Forest.ipynb)| Random Forest | 
-| Material  |  |  | 
-| Material  |  |  |
+| Material  |[08_M6_XgBoost](https://github.com/erik1110/Data-Science/blob/master/08_Model_Development/08_M6_XgBoost.ipynb)  | XGBoost | 
+| Material  |[08_M7_LightGBM](https://github.com/erik1110/Data-Science/blob/master/08_Model_Development/08_M7_LightGBM.ipynb)  | LightGBM  |
+| Material  |[08_M8_GridSearch](https://github.com/erik1110/Data-Science/blob/master/08_Model_Development/08_M8_GridSearch.ipynb)  | GridSearch  |
+| Material  |[08_M9_Shap]()  | Shap  |
 | Reference |  |  |
 
 ## Level 9 : Git Tutorial
