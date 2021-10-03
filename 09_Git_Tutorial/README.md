@@ -184,6 +184,9 @@ https://nvie.com/posts/a-successful-git-branching-model/
 
 但你的 local 端，沒有先更新到最新，也對同一行程式碼進行編輯修改。你一樣先 git add 、 git commit，當你發現 git push 時候悲劇了！
 
+![image](https://user-images.githubusercontent.com/40282726/135757798-fe336952-6b31-48a1-8ea8-2c1f3450c60c.png)
+
+
 怎麼會有衝突呢？ 這時候什麼東西
 
 ![image](https://user-images.githubusercontent.com/40282726/135757444-5608dfda-a7ee-4ac1-b323-89b4b11d233d.png)
