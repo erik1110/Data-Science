@@ -177,7 +177,7 @@ https://nvie.com/posts/a-successful-git-branching-model/
   - ``` git pull --rebase``` 加上此參數之後會自動做 rebase
     多人開發的時候，大家會在自己分支commit並在遠端協作，你拉回本地端的時候也會因為合併而產生一個額外的commit，如果你不想要這個多餘的commit可以加上此參數
 ### 衝突
-假設你與同事或專案成員共用開發，你的同事在 develop 分支上先改了一下操作
+假設你與同事或專案成員共用開發，你的同事在 develop 分支上先改了一下操作(這邊遠端用 master 示範)
 
 ![image](https://user-images.githubusercontent.com/40282726/135757304-11792557-6417-4e5e-b4b3-02c8b124b0ef.png)
 
