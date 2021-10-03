@@ -45,7 +45,7 @@
 | TRACE    | 指定資源標明的伺服器之間，執行迴路返回測試（loop-back test）     |
 | PATCH    | 修改部分 request     |
   
-## FastAPI
+## [FastAPI](https://fastapi.tiangolo.com/)
 
 FastAPI 是近期受到矚目的網頁框架，是一款專用於建構 API 、高性能的 web 框架。
 
