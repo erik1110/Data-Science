@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+sqlalchemy
+jinja2
+aiofiles
