@@ -22,7 +22,7 @@ This is a story related to machine learning and all data science skill.
   
   3.Optimization Method (to optimize the objective function)
 
-## 
+## Machine Learning Roadmap
 | Name | iThome 鐵人賽  | Material & Assignment & Reference |
 | -------- | -------- | -------- |
 | Level 1 : Python Basic Skills | [Day 01：Python 介紹與開發環境](https://ithelp.ithome.com.tw/articles/10263453) <br> [Day 02：Python 基礎觀念 (1)](https://ithelp.ithome.com.tw/articles/10263455) <br> [Day 03：Python 基礎觀念 (2)](https://ithelp.ithome.com.tw/articles/10263576) <br> [Day 04：Python 基礎觀念 (3)](https://ithelp.ithome.com.tw/articles/10264161)| [Assignment：01_H1_Basic](https://github.com/erik1110/Data-Science/blob/master/01_Python_Basic_Skills/01_H1_Basic.ipynb) <br> [Assignment：01_S1_Basic](https://github.com/erik1110/Data-Science/blob/master/01_Python_Basic_Skills/01_S1_Basic.ipynb) <br> [Reference：Codecadedy Learn Python 3](https://www.codecademy.com/learn/learn-python-3)|
@@ -35,45 +35,9 @@ This is a story related to machine learning and all data science skill.
 |Level 8 : Model Development|[Day 19：KNN 與 K-means](https://ithelp.ithome.com.tw/articles/10272966)<br>[Day 20：線性迴歸與羅吉斯迴歸](https://ithelp.ithome.com.tw/articles/10272968)<br>[Day 21：SVM](https://ithelp.ithome.com.tw/articles/10276068)<br>[Day 22：決策樹](https://ithelp.ithome.com.tw/articles/10276079)<br>[Day 23：集成式學習](https://ithelp.ithome.com.tw/articles/10276102)<br> [Day 24：隨機森林](https://ithelp.ithome.com.tw/articles/10276112)<br>[Day 25：XGBoost](https://ithelp.ithome.com.tw/articles/10276808)<br>[Day 26：LightGBM 與 GridSearch](https://ithelp.ithome.com.tw/articles/10276809)<br>[Day 27：模型解釋 Shap](https://ithelp.ithome.com.tw/articles/10276922)<br>|[Material：08_M0_Background_Knowledge](https://github.com/erik1110/Data-Science/blob/master/08_Model_Development/README.md)<br>[Material：08_M1_KNN&K-Means](https://github.com/erik1110/Data-Science/blob/master/08_Model_Development/08_M1_KNN%26K-Means.ipynb)<br>[Material：08_M2_Regression](https://github.com/erik1110/Data-Science/blob/master/08_Model_Development/08_M2_Regression.ipynb)<br>[Material：08_M3_SVM](https://github.com/erik1110/Data-Science/blob/master/08_Model_Development/08_M3_SVM.ipynb)<br>[Material：08_M4_Decision_Tree](https://github.com/erik1110/Data-Science/blob/master/08_Model_Development/08_M4_Decision_Tree.ipynb)<br>[Material：08_M5_Random_Forest](https://github.com/erik1110/Data-Science/blob/master/08_Model_Development/08_M5_Random_Forest.ipynb)<br>[Material：08_M6_XgBoost](https://github.com/erik1110/Data-Science/blob/master/08_Model_Development/08_M6_XgBoost.ipynb)<br>[Material：08_M7_LightGBM](https://github.com/erik1110/Data-Science/blob/master/08_Model_Development/08_M7_LightGBM.ipynb)<br>[Material：08_M8_GridSearch](https://github.com/erik1110/Data-Science/blob/master/08_Model_Development/08_M8_GridSearch.ipynb)<br>[Material：08_M9_Shap](https://github.com/erik1110/Data-Science/blob/master/08_Model_Development/08_M9_Shap.ipynb)|
 |Level 9 : Git Tutorial|[Day 28：Git](https://ithelp.ithome.com.tw/articles/10277067)|[Material：09_M1_Git](https://github.com/erik1110/Data-Science/tree/master/09_Git_Tutorial) |
 |Level 10 : API Service|[Day 29：FastAPI 讓模型上線](https://ithelp.ithome.com.tw/articles/10280096)| [Material：10_API_Service](https://github.com/erik1110/Data-Science/tree/master/10_API_Service)|
+|Level 11 : Model Monitoring|||
 
-
-
-
-## Level 10 : Model Deployment
-## Level 11 : Model Monitoring
-## Level 12 : Deep Learning
-
-### Natural Language Processing
-
-> 1.[TF-IDF使用](https://github.com/erik1110/Machine-Learning/blob/master/Natural%20Language%20Processing/TF%E2%80%93IDF%20Demo.ipynb)
-
-> 2.[nltk](https://github.com/erik1110/Machine-Learning/blob/master/Natural%20Language%20Processing/%E8%A9%9E%E6%80%A7%E9%82%84%E5%8E%9F%E5%B7%A5%E5%85%B7.ipynb)
-
-> 3.[What's cooking](https://github.com/erik1110/Machine-Learning/blob/master/Natural%20Language%20Processing/What's%20cooking-nltk.ipynb)
-
-> 4.[正規表達式練習題](https://regexone.com/)
-
-- word2vec 
-
-
-### Computer Vision
-
-1. Deep Neural Networks(DNN)
-
-   a.[Keras PDF](https://github.com/erik1110/Machine-Learning/blob/master/Deep%20Learning/Keras/Keras%20%E5%85%A5%E9%96%80.pdf)
-
-   b.[Keras Demo](https://github.com/erik1110/Machine-Learning/blob/master/Deep%20Learning/Keras/Keras%20v2.ipynb)
-
-
-2. Convolutional Neural Networks(CNN)
-
-   a.[卷積神經網絡介紹(Convolutional Neural Network)](https://medium.com/@yehjames/%E8%B3%87%E6%96%99%E5%88%86%E6%9E%90-%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-%E7%AC%AC5-1%E8%AC%9B-%E5%8D%B7%E7%A9%8D%E7%A5%9E%E7%B6%93%E7%B6%B2%E7%B5%A1%E4%BB%8B%E7%B4%B9-convolutional-neural-network-4f8249d65d4f)
-   
-3. Recurrent Neural Network(RNN)
-   - RNN李宏毅上課的筆記](https://hackmd.io/W9Kp4ZlGSqqwPxYHbEmAUA)
-   - [關於影像辨識，所有你應該知道的深度學習模型](https://medium.com/@syshen/%E7%89%A9%E9%AB%94%E5%81%B5%E6%B8%AC-object-detection-740096ec4540)
-   - [OCR技术：大批量构造中文文字训练集](https://blog.csdn.net/meyh0x5vDTk48P2/article/details/79848753)
-   - [Google Cloud Vision API](https://github.com/enakai00/jupyter_gcp/blob/master/Vision%20API%20Quick%20Tour.ipynb)
-   - [Google Cloud Text API](https://blog.gtwang.org/programming/automation-of-google-ocr-using-python-tutorial/)
-## Level 13 : Docker
+## Advanced
+| Name |  Material & Assignment & Reference |
+| Level 12 : Deep Learning|[Material：TF-IDF使用](https://github.com/erik1110/Machine-Learning/blob/master/Natural%20Language%20Processing/TF%E2%80%93IDF%20Demo.ipynb)]<br>[nltk](https://github.com/erik1110/Machine-Learning/blob/master/Natural%20Language%20Processing/%E8%A9%9E%E6%80%A7%E9%82%84%E5%8E%9F%E5%B7%A5%E5%85%B7.ipynb)<br>[What's cooking](https://github.com/erik1110/Machine-Learning/blob/master/Natural%20Language%20Processing/What's%20cooking-nltk.ipynb)<br>[Keras PDF](https://github.com/erik1110/Machine-Learning/blob/master/Deep%20Learning/Keras/Keras%20%E5%85%A5%E9%96%80.pdf)<br>[Keras Demo](https://github.com/erik1110/Machine-Learning/blob/master/Deep%20Learning/Keras/Keras%20v2.ipynb)<br>[卷積神經網絡介紹(Convolutional Neural Network)](https://medium.com/@yehjames/%E8%B3%87%E6%96%99%E5%88%86%E6%9E%90-%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-%E7%AC%AC5-1%E8%AC%9B-%E5%8D%B7%E7%A9%8D%E7%A5%9E%E7%B6%93%E7%B6%B2%E7%B5%A1%E4%BB%8B%E7%B4%B9-convolutional-neural-network-4f8249d65d4f)<br>[關於影像辨識，所有你應該知道的深度學習模型](https://medium.com/@syshen/%E7%89%A9%E9%AB%94%E5%81%B5%E6%B8%AC-object-detection-740096ec4540)<br>[OCR技术：大批量构造中文文字训练集](https://blog.csdn.net/meyh0x5vDTk48P2/article/details/79848753)<br>[Google Cloud Vision API](https://github.com/enakai00/jupyter_gcp/blob/master/Vision%20API%20Quick%20Tour.ipynb)<br>[Google Cloud Text API](https://blog.gtwang.org/programming/automation-of-google-ocr-using-python-tutorial/)|
  
