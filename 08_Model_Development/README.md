@@ -31,7 +31,7 @@
 
 所謂的交叉驗證是將訓練資料進行多次不同的切割，輪流當驗證集，最後計算的時候取平均，比較能了解資料在不同情況下的成效。
 
-![image](https://user-images.githubusercontent.com/40282726/131237686-e4552637-a4dd-4567-bafc-8a26b6211f08.png)
+![image](https://user-images.githubusercontent.com/40282726/137632169-a63064e6-a9c4-4508-946d-42df6dd742bf.png)
 
 ## 集成式學習
 集成式學習(Ensemble Learning)，是將數個監督式學習的模型集合起來，可以達到更好的模型成效。俗話說的話，三個臭皮匠勝過一個諸葛亮，就是這個道理！
